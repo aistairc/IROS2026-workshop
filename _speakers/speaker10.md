@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Speaker1
+name: Speaker10
 
 # Link to the speaker's webpage
 webpage: https://jane.doe
@@ -21,4 +21,4 @@ affil2_link: https://buzzfizz.corp
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Jane Doe is the Foo professor of AI at Buzz University. She also leads the FooBar team at BuzzFizz Corp. Her research interests include FooBuzz, BarFizz, and FooBarBuzzFizz.
+TBD

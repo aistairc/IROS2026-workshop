@@ -29,34 +29,30 @@ layout: home
 - [Deadline4]
 - [Deadline5]
 
-[Add context and link to Call of Papers page.]
+## Speakers and Panelists              <!-- Header 2.2 -->
 
-### Awards Committee                   <!-- Header 3.2 -->
-
-[Context for awards committee.]
-
-
-## Speakers and Panelists              <!-- Header 2.3 -->
-
-| <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
-| [speaker name1] | [speaker name2] | [speaker name3] | [speaker name4] | [speaker name5] |
+| <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> | <img width="350" height="225" src="assets/img/speakers/Robert_Katzschmann.jpg"> |
+|:---:|:---:|:---:|:---:|:---:|
+| Rika Antonova | Jose Berreiros | Yukiyasu Domae | Kensuke Harada | Robert Katzschmann |
 
 
-| <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
-| [speaker name6] | [speaker name7] | [speaker name8] | [speaker name9] | [speaker name10] |
+| <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Ogata.jpg"> | <img width="350" height="225" src="assets/img/speakers/Maximo_Roa.png"> | <img width="350" height="225" src="assets/img/speakers/Jing Xiao.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> |
+|:---:|:---:|:---:|:---:|:---:|
+| Roberto Martin-Martin | Tetsuya Ogata | Máximo A. Roa | Jing Xiao | [speaker name10] |
 
 
 
-## Organizers                          <!-- Header 2.4 -->
+## Organizers                          <!-- Header 2.3 -->
 
-| <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/jane.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
-| [Name 1] | [Name 2] | [Name 3] | [Name 4] | [Name 5] | [Name 6] |
+| <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/jane.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Marina Aoyama | Hao Chen | Floris Erich | Roman Mykhailyshyn | Kei Ota | Diego Romeres |
 
 
-## Sponsors                             <!-- Header 2.5 -->
+## Sponsors                             <!-- Header 2.4 -->
 
 | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
-| [sponsor name1] | [sponsor name2] | [sponsor name3] | [sponsor name4] |
+| AIST | Toyota | Mitsubishi | AIRoA |
 
 <!--The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.

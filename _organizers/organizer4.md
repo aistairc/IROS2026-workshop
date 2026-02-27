@@ -1,20 +1,21 @@
 ---
 # Name of the organizer
-name: Organizer4
+name: Roman Mykhailyshyn
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: https://romanmykhailyshyn.github.io/
 
 # Primary affiliation
-affil: Buzz University
+affil: AIST
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+affil_link: https://www.aist.go.jp/index_en.html
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: Roman_Mykhailyshyn.png
 
 # Secondary affiliation
-affil2: BuzzFizz Corp
-# Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
+affil2: American University Kyiv
+#Link to the secondary affiliation
+affil2_link: https://auk.edu.ua/en/about-us/
+
 ---

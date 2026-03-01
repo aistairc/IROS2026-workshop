@@ -33,14 +33,14 @@ layout: home
 
 | <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/speakers/jose_barreiros_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/yukiyasu_domae_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> |
 |:---:|:---:|:---:|:---:|:---:|
-| Rika Antonova | Jose Barreiros | Yukiyasu Domae | Roberto Martin-Martin | Kensuke Harada |
+| [Rika Antonova](https://contactrika.github.io/) | [Jose Barreiros](https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en) | [Yukiyasu Domae](https://scholar.google.com/citations?user=itsWyXgAAAAJ&hl=ja) | [Roberto Martin-Martin](https://robertomartinmartin.com/) | [Kensuke Harada](https://www.roboticmanipulation.org/english/) |
 | University of Cambridge | Toyota Research Institute | AIST | The University of Texas at Austin/Amazon | The University of Osaka |
 {: .speakers-table}
 
 
 | <img width="350" height="225" src="assets/img/speakers/Ogata.jpg"> | <img width="350" height="225" src="assets/img/speakers/Maximo_Roa.png"> | <img width="350" height="225" src="assets/img/speakers/Jing Xiao.jpg"> | <img width="350" height="225" src="assets/img/speakers/Robert_Katzschmann.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|
-| Tetsuya Ogata | Máximo A. Roa | Jing Xiao | Robert Katzschmann | [speaker name10] |
+| [Tetsuya Ogata](https://ogata-lab.jp/) | [Máximo A. Roa](https://scholar.google.com/citations?user=ZSRwsn6tjckC&hl=en) | [Jing Xiao](https://users.wpi.edu/~jxiao2/?_gl=1*hebd5t*_gcl_au*OTUxNTYxMC4xNzcyMzk1Nzc4*_ga*MTgzMjI3ODYzNi4xNzcyMzk1Nzc5*_ga_RE35PKQB7J*czE3NzIzOTU3NzgkbzEkZzAkdDE3NzI0MDY5MzUkajYwJGwwJGgw) | [Robert Katzschmann](https://srl.ethz.ch/) | [[speaker name10]](#) |
 | Waseda University/AIST/AIRoA | The German Aerospace Center (DLR) | Worcester Polytechnic Institute | ETH Zurich/Mimic Robotics | [affiliation10] |
 {: .speakers-table}
 
@@ -48,9 +48,11 @@ layout: home
 
 ## Organizers                          <!-- Header 2.3 -->
 
-| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/chen_hao_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> |
+| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/chen_hao_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Floris Erich | Roman Mykhailyshyn | Kei Ota | Marina Aoyama | Hao Chen | Diego Romeres |
+| [Floris Erich](https://staff.aist.go.jp/floris.erich/) | [Roman Mykhailyshyn](https://romanmykhailyshyn.github.io/) | [Kei Ota](https://keiohta.github.io/) | [Hao Chen](https://chzjuou.github.io/) | [Diego Romeres](https://www.merl.com/people/romeres) | [Marina Y. Aoyama](https://sites.google.com/view/marinayaoyama/research) |
+| AIST | AIST/American University Kyiv | AIRoA/RIKEN | The University of Osaka | MERL | The University of Edinburgh |
+{: .speakers-table}
 
 
 ## Sponsors                             <!-- Header 2.4 -->

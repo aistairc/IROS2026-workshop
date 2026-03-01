@@ -31,10 +31,10 @@ layout: home
 
 ## Speakers and Panelists              <!-- Header 2.2 -->
 
-| <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> |
+| <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/speakers/jose_barreiros_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/yukiyasu_domae_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> |
 |:---:|:---:|:---:|:---:|:---:|
 | Rika Antonova | Jose Barreiros | Yukiyasu Domae | Roberto Martin-Martin | Kensuke Harada |
-| University of Cambridge | Toyota Research Institute | Advanced Industrial Science and Technology (AIST) | The University of Texas at Austin/Amazon | The University of Osaka |
+| University of Cambridge | Toyota Research Institute | AIST | The University of Texas at Austin/Amazon | The University of Osaka |
 {: .speakers-table}
 
 

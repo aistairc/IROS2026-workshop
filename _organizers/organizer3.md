@@ -1,16 +1,21 @@
 ---
 # Name of the organizer
-name: Floris Erich
+name: Kei Ota
 
 # Link to the organizer's webpage
-webpage: https://staff.aist.go.jp/floris.erich
+webpage: https://keiohta.github.io
 
 # Primary affiliation
-affil: AIST
+affil: AIRoA
 # Link to the primary affiliation
-affil_link: https://www.aist.go.jp/index_en.html
+affil_link: https://www.airoa.org/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jane.jpg
+
+# Secondary affiliation
+affil2: RIKEN
+# Link to the secondary affiliation
+affil2_link: https://www.riken.jp/en/
 
 ---

@@ -1,14 +1,14 @@
 ---
 # Name of the organizer
-name: Marina Y. Aoyama
+name: Floris Erich
 
 # Link to the organizer's webpage
-webpage: https://sites.google.com/view/marinayaoyama/research
+webpage: https://staff.aist.go.jp/floris.erich
 
 # Primary affiliation
-affil: The University of Edinburgh
+affil: AIST
 # Link to the primary affiliation
-affil_link: https://www.ed.ac.uk/
+affil_link: https://www.aist.go.jp/index_en.html
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jane.jpg

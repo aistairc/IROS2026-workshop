@@ -44,9 +44,9 @@ layout: home
 
 ## Organizers                          <!-- Header 2.3 -->
 
-| <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/jane.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> |
+| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/chen_hao_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Marina Aoyama | Hao Chen | Floris Erich | Roman Mykhailyshyn | Kei Ota | Diego Romeres |
+| Floris Erich | Roman Mykhailyshyn | Kei Ota | Marina Aoyama | Hao Chen | Diego Romeres |
 
 
 ## Sponsors                             <!-- Header 2.4 -->

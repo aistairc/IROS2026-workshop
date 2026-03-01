@@ -1,21 +1,16 @@
 ---
 # Name of the organizer
-name: Roman Mykhailyshyn
+name: Marina Y. Aoyama
 
 # Link to the organizer's webpage
-webpage: https://romanmykhailyshyn.github.io/
+webpage: https://sites.google.com/view/marinayaoyama/research
 
 # Primary affiliation
-affil: AIST
+affil: The University of Edinburgh
 # Link to the primary affiliation
-affil_link: https://www.aist.go.jp/index_en.html
+affil_link: https://www.ed.ac.uk/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: Roman_Mykhailyshyn.png
-
-# Secondary affiliation
-affil2: American University Kyiv
-#Link to the secondary affiliation
-affil2_link: https://auk.edu.ua/en/about-us/
+img: jane.jpg
 
 ---

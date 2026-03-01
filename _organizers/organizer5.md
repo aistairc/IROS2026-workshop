@@ -1,21 +1,16 @@
 ---
 # Name of the organizer
-name: Kei Ota
+name: Hao Chen
 
 # Link to the organizer's webpage
-webpage: https://keiohta.github.io
+webpage: https://chzjuou.github.io/
 
 # Primary affiliation
-affil: AIRoA
+affil: The University of Osaka
 # Link to the primary affiliation
-affil_link: https://www.airoa.org/
+affil_link: https://www.osaka-u.ac.jp/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jane.jpg
-
-# Secondary affiliation
-affil2: RIKEN
-# Link to the secondary affiliation
-affil2_link: https://www.riken.jp/en/
 
 ---

@@ -26,10 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_url: "https://2026.ieee-iros.org/"
 #SNS contact info
-twitter_username: [username here]
-github_username:  [username here]
+twitter_username: username
+github_username:  username
 
 # Build settings
+theme: minima
 plugins:
   - jekyll-seo-tag
 

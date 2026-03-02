@@ -6,7 +6,7 @@ name: Robert Katzschmann
 webpage: https://srl.ethz.ch/the-group/robert-katzschmann.html
 
 # Primary affiliation of the speaker
-affil: ETH Zuriich
+affil: ETH Zurich
 # Link to the speaker's primary affiliation
 affil_link: https://ethz.ch/en.html
 

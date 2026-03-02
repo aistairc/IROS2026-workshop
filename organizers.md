@@ -1,5 +1,6 @@
 ---
-layout: organizers
+layout: null
 title: Organizers
-permalink: /organizers/
+permalink: /organizers.html
 ---
+<script>window.location.href = "{{ site.baseurl }}/#organizers";</script>

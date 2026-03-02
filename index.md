@@ -7,29 +7,21 @@ title: Home
 layout: home
 ---
 <!--Edit to prefrence -->
-#  **Welcome to IROS2026 Workshop!**   <!-- Header1 -->
+<!-- Hide the default page title "Home" but keep it in the front matter for the navigation menu -->
+<style>
+  .page-heading, .post-title, .page-title { display: none; }
+</style>
 
-## Abstract                            <!-- Header 2.1 -->
-[Abstract here]
+#  **1st International Workshop on Industrial Applications of Robot Learning**   <!-- Header1 -->
 
 <!--insert video or picture below from assets. The link below is a placeholder.-->
 ![img description here](assets/img/banner.jpg) 
 
+## About                            <!-- Header 2.1 -->
+Robot Learning is ready to leave the lab and go into industry as proven by the recent wave of Embodied AI and Physical AI startups jointly attracting billions of dollars in investment. Over the past decade, advances in deep reinforcement learning, imitation learning, large-scale simulation, and foundation models have enabled robots to learn tasks from data and operate in less structured environments. Unlike traditional industrial robots that depend on rigid programming and controlled settings, these systems promise greater autonomy and adaptability for real-world deployment. In this workshop we will discuss the state-of-the-art in industrial applications of robot learning with speakers working on the frontlines both in industry and in academia. Motivated by the global importance of this transition, efforts are underway worldwide, including startup- and industry-driven projects in the US, large-scale programs across Europe, such as Robust and Trustworthy Generative AI for Robotics and Industrial Automation (RIA), and projects in Asia, including JST and NEDO initiatives in Japan supporting learning-based industrial robotics. As robot learning approaches real-world deployment, this workshop will foster discussion on a central question for industry: whether robot learning is ready to meet the high standards of precision, reliability, safety, and robustness in industrial applications, and how to bridge the remaining gaps to achieve them.
 
-## Call for papers                     <!-- Header 2.1 -->
 
-[Add context for papers.]
-
-### Important dates                    <!-- Header 3.1 -->
-==All deadlines are "time zone" anywhere on earth.==
-
-- [Deadline1]
-- [Deadline2]
-- [Deadline3]
-- [Deadline4]
-- [Deadline5]
-
-## Speakers and Panelists              <!-- Header 2.2 -->
+## Speakers and Panelists {#speakers}
 
 | <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/speakers/jose_barreiros_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/yukiyasu_domae_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> |
 |:---:|:---:|:---:|:---:|:---:|
@@ -45,8 +37,31 @@ layout: home
 {: .speakers-table}
 
 
+## Call for papers {#call-for-papers}
 
-## Organizers                          <!-- Header 2.3 -->
+### Topics of Interest include (but are not limited to):
+
+- Industrial applications of robot learning
+- Learning visual, force, tactile, and audio perception 
+- Learning dexterous manipulation
+- Learning-based manipulation and long-horizon task execution 
+- Sim-to-real transfer and data-efficient learning
+- Foundation models and generative AI for industrial robots
+- Human-robot collaboration and adaptive shared autonomy
+- Benchmarking and evaluation of precision, reliability, and performance
+- Safety, trustworthiness, and robustness in learning-enabled industrial robots
+
+### Important dates                    <!-- Header 3.1 -->
+==All deadlines are "time zone" anywhere on earth.==
+
+- [Deadline1]
+- [Deadline2]
+- [Deadline3]
+- [Deadline4]
+- [Deadline5]
+
+
+## Organizers {#organizers}
 
 | <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/chen_hao_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +70,7 @@ layout: home
 {: .speakers-table}
 
 
-## Sponsors                             <!-- Header 2.4 -->
+## Supported by                             <!-- Header 2.4 -->
 
 | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
 | Advanced Industrial Science and Technology | Toyota | Mitsubishi | AIRoA |

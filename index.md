@@ -37,6 +37,17 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 {: .speakers-table}
 
 
+## Important Info {#important-info}
+
+| 📍<br>**Venue** | IROS 2026 · Pittsburgh |
+|:---:|:---|
+| 🖥️<br>**Format** | Hybrid: in-person + livestream; talks, spotlights, posters, panel |
+| 🏆<br>**Awards** | Best Paper |
+| 📅<br>**Call for Papers Opens** | TBC |
+| ⏳<br>**Submission Deadline** | TBC |
+| **Contact** | Email the organisers: [tbc](mailto:UPDATE_LATER@ed.ac.uk)<br>Workshop website: [tbc](UPDATE_LATER) |
+
+
 ## Call for papers {#call-for-papers}
 
 ### Topics of Interest include (but are not limited to):

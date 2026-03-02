@@ -10,6 +10,18 @@ layout: home
 <!-- Hide the default page title "Home" but keep it in the front matter for the navigation menu -->
 <style>
   .page-heading, .post-title, .page-title { display: none; }
+  .noborder-table,
+  .noborder-table tr,
+  .noborder-table th,
+  .noborder-table td {
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+  }
+  .noborder-table thead { display: none; }
+  .info-icon {
+    font-size: 1.5em;
+  }
 </style>
 
 #  **1st International Workshop on Industrial Applications of Robot Learning**   <!-- Header1 -->
@@ -39,13 +51,16 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 ## Important Info {#important-info}
 
-| 📍<br>**Venue** | IROS 2026 · Pittsburgh |
-|:---:|:---|
-| 🖥️<br>**Format** | Hybrid: in-person + livestream; talks, spotlights, posters, panel |
-| 🏆<br>**Awards** | Best Paper |
-| 📅<br>**Call for Papers Opens** | TBC |
-| ⏳<br>**Submission Deadline** | TBC |
-| **Contact** | Email the organisers: [tbc](mailto:UPDATE_LATER@ed.ac.uk)<br>Workshop website: [tbc](UPDATE_LATER) |
+| | |
+|---:|:---|
+| <span class="info-icon">📍</span> | **Venue**<br>IROS 2026 · Pittsburgh |
+| <span class="info-icon">🖥️</span> | **Format**<br>Hybrid: in-person + livestream; talks, spotlights, posters, panel |
+| <span class="info-icon">🏆</span> | **Awards**<br>Best Paper |
+| <span class="info-icon">📅</span> | **Call for Papers Opens**<br>TBC |
+| <span class="info-icon">⏳</span> | **Submission Deadline**<br>TBC |
+| <span class="info-icon">📧</span> | **Contact**<br>Email the organisers: [tbc](mailto:UPDATE_LATER@ed.ac.uk) |
+| <span class="info-icon">🌐</span> | **Website**<br>[tbc](UPDATE_LATER) |
+{: .noborder-table}
 
 
 ## Call for papers {#call-for-papers}
@@ -62,14 +77,13 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 - Benchmarking and evaluation of precision, reliability, and performance
 - Safety, trustworthiness, and robustness in learning-enabled industrial robots
 
-### Important dates                    <!-- Header 3.1 -->
-==All deadlines are "time zone" anywhere on earth.==
+### Submission guidelines                    <!-- Header 3.1 -->
+We invite submissions of extended abstracts up to 2 pages (excluding references).  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
 
-- [Deadline1]
-- [Deadline2]
-- [Deadline3]
-- [Deadline4]
-- [Deadline5]
+### Important dates                    <!-- Header 3.2 -->
+All deadlines are "time zone" anywhere on earth. 
+
+- [TBC]
 
 
 ## Organizers {#organizers}

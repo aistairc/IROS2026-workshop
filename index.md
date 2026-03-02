@@ -88,7 +88,7 @@ All deadlines are "time zone" anywhere on earth.
 
 ## Organizers {#organizers}
 
-| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/chen_hao_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> |
+| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/Hao_Chen.jpg"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Floris Erich](https://staff.aist.go.jp/floris.erich/) | [Roman Mykhailyshyn](https://romanmykhailyshyn.github.io/) | [Kei Ota](https://keiohta.github.io/) | [Hao Chen](https://chzjuou.github.io/) | [Diego Romeres](https://www.merl.com/people/romeres) | [Marina Y. Aoyama](https://sites.google.com/view/marinayaoyama/research) |
 | AIST | AIST/American University Kyiv | AIRoA/RIKEN | The University of Osaka | MERL | The University of Edinburgh |

@@ -2,6 +2,43 @@ div.speaker {
   margin: 2em 0;
 }
 
+/* make speaker columns equal width regardless of text length */
+.speakers-table {
+  table-layout: fixed;
+  width: 100%;
+}
+.speakers-table td {
+  /* no explicit width so columns divide space evenly
+     (number of columns may vary on different pages) */
+  vertical-align: top;
+}
+
+/* constrain images in the home speaker tables; those use width/height attributes */
+.speakers-table img {
+  /* make photos larger on wide screens */
+  max-width: 150px !important;
+  max-height: 150px !important;
+  width: auto !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto; /* center the block within the cell */
+}
+
+/* scale images back down on smaller viewports to avoid layout breakage */
+@media (max-width:1000px) {
+    .speakers-table img {
+        max-width: 100px !important;
+        max-height: 100px !important;
+    }
+}
+
+/* ensure columns can't expand beyond fixed layout by hiding overflow */
+.speakers-table td,
+.speakers-table th {
+  overflow: hidden;
+  width: 1%; /* tiny relative width forces equal distribution under fixed layout */
+}
+
 div.speaker
 div.speaker-pic {
   text-align: center;
@@ -91,4 +128,10 @@ span.award-other img {
 .table.schedule tr td {
   padding-top: 0;
   padding-bottom: 8px;
+}
+
+/* Hide the "Subscribe" RSS feed link in the footer */
+.site-footer a[href$="feed.xml"] {
+    display: none;
+}
 }

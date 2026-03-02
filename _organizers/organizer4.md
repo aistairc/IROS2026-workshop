@@ -1,20 +1,16 @@
 ---
 # Name of the organizer
-name: Organizer4
+name: Marina Y. Aoyama
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: https://sites.google.com/view/marinayaoyama/research
 
 # Primary affiliation
-affil: Buzz University
+affil: The University of Edinburgh
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+affil_link: https://www.ed.ac.uk/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jane.jpg
 
-# Secondary affiliation
-affil2: BuzzFizz Corp
-# Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
 ---

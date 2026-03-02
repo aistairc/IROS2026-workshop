@@ -1,4 +1,4 @@
----
+<!-- ---
 # Determines which paper appears first (lowest number (0) appears first)
 sequence_id: 0
 
@@ -17,4 +17,4 @@ pdf: 00.pdf
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: 00.png
 ---
- <!-- Copy this file and rename as "paper_no.md" and  addc ontexts accordinglly. Example shown as "paper_01.md --">
+ <!-- Copy this file and rename as "paper_no.md" and  addc ontexts accordinglly. Example shown as "paper_01.md --"> -->

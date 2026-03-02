@@ -1,20 +1,21 @@
 ---
 # Name of the organizer
-name: Organizer3
+name: Kei Ota
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: https://keiohta.github.io
 
 # Primary affiliation
-affil: Buzz University
+affil: AIRoA
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+affil_link: https://www.airoa.org/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jane.jpg
 
 # Secondary affiliation
-affil2: BuzzFizz Corp
+affil2: RIKEN
 # Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
+affil2_link: https://www.riken.jp/en/
+
 ---

@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: null
 title: Call for papers
 permalink: /callforpapers/
 ---
-
-Your call for papers goes here.
+<script>window.location.href = "{{ site.baseurl }}/#call-for-papers";</script>

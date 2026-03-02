@@ -1,5 +1,6 @@
 ---
-layout: speakers
+layout: null
 title: Speakers
-permalink: /speakers/
+permalink: /speakers.html
 ---
+<script>window.location.href = "{{ site.baseurl }}/#speakers";</script>

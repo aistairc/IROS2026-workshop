@@ -129,3 +129,9 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+/* Hide the "Subscribe" RSS feed link in the footer */
+.site-footer a[href$="feed.xml"] {
+    display: none;
+}
+}

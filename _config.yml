@@ -20,8 +20,8 @@
 
 title: IROS2026
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  [description for the workshop site here.] 
+# description: >- # this means to ignore newlines until "baseurl:"
+#   [description for the workshop site here.] 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #SNS contact info
@@ -30,7 +30,6 @@ github_username:  [username here]
 
 # Build settings
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment

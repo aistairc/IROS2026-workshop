@@ -32,21 +32,89 @@ layout: home
 ## About                            <!-- Header 2.1 -->
 Robot Learning is ready to leave the lab and go into industry as proven by the recent wave of Embodied AI and Physical AI startups jointly attracting billions of dollars in investment. Over the past decade, advances in deep reinforcement learning, imitation learning, large-scale simulation, and foundation models have enabled robots to learn tasks from data and operate in less structured environments. Unlike traditional industrial robots that depend on rigid programming and controlled settings, these systems promise greater autonomy and adaptability for real-world deployment. In this workshop we will discuss the state-of-the-art in industrial applications of robot learning with speakers working on the frontlines both in industry and in academia. Motivated by the global importance of this transition, efforts are underway worldwide, including startup- and industry-driven projects in the US, large-scale programs across Europe, such as Robust and Trustworthy Generative AI for Robotics and Industrial Automation (RIA), and projects in Asia, including JST and NEDO initiatives in Japan supporting learning-based industrial robotics. As robot learning approaches real-world deployment, this workshop will foster discussion on a central question for industry: whether robot learning is ready to meet the high standards of precision, reliability, safety, and robustness in industrial applications, and how to bridge the remaining gaps to achieve them.
 
+<p class="spacing_style"></p>
 
 ## Speakers and Panelists {#speakers}
 
-| <img width="350" height="225" src="assets/img/speakers/Rika_Antonova.png"> | <img width="350" height="225" src="assets/img/speakers/jose_barreiros_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/yukiyasu_domae_profile_photo.jpeg"> | <img width="350" height="225" src="assets/img/speakers/Roberto_Martin.jpg"> | <img width="350" height="225" src="assets/img/speakers/Kensuke_Harada.png"> |
-|:---:|:---:|:---:|:---:|:---:|
-| [Rika Antonova](https://contactrika.github.io/) | [Jose Barreiros](https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en) | [Yukiyasu Domae](https://scholar.google.com/citations?user=itsWyXgAAAAJ&hl=ja) | [Roberto Martin-Martin](https://robertomartinmartin.com/) | [Kensuke Harada](https://www.roboticmanipulation.org/english/) |
-| University of Cambridge | Toyota Research Institute | AIST | The University of Texas at Austin/Amazon | The University of Osaka |
-{: .speakers-table}
+<div class="gallery-container">
+    <div class="card">
+        <a href="https://contactrika.github.io/"> 
+            <img src="assets/img/speakers/Rika_Antonova.png" alt="Rika_Antonova_Picture">
+        </a>
+        <div class="card-text">Rika Antonova</div>
+        <div class="card-affil">The University of Cambridge</div>
+    </div>
+    <div class="card">
+        <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en">
+            <img src="assets/img/speakers/jose_berreiros_profile_photo2.jpeg" alt="Jose_Berreiros_Picture">
+        </a>
+        <div class="card-text">Jose Berreiros</div>
+        <div class="card-affil">Toyota Research Institute</div>
+    </div>
+    <div class="card">
+        <a href="https://researchmap.jp/yukiyasu-domae">
+            <img src="assets/img/speakers/YukiyasuDomae2.png" alt="Yukiyasu_Domae_picture">
+        </a>
+        <div class="card-text">Yukiyasu Domae</div>
+        <div class="card-affil">Advanced Industrial Science and Technology</div>
+    </div>
+    <div class="card">
+        <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/">
+            <img src="assets/img/speakers/Kensuke_Harada2.png" alt="Kensuke_Harada_Picture">
+        </a>
+        <div class="card-text">Kensuke Harada</div>
+        <div class="card-affil">The University of Osaka</div>
+    </div>
+    <div class="card">
+        <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html">
+            <img src="/assets/img/speakers/Robert_Katzschmann2.jpg" alt="Robert_Katzschmann_Picture">
+        </a>
+        <div class="card-text">Robert Katzchmann</div>
+        <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
+    </div>
+</div>
 
+<p class="spacing_style"></p>
 
-| <img width="350" height="225" src="assets/img/speakers/Ogata.jpg"> | <img width="350" height="225" src="assets/img/speakers/Maximo_Roa.png"> | <img width="350" height="225" src="assets/img/speakers/Jing Xiao.jpg"> | <img width="350" height="225" src="assets/img/speakers/Robert_Katzschmann.jpg"> | <img width="350" height="225" src="assets/img/organizers/avatar.jpg"> |
-|:---:|:---:|:---:|:---:|:---:|
-| [Tetsuya Ogata](https://ogata-lab.jp/) | [Máximo A. Roa](https://scholar.google.com/citations?user=ZSRwsn6tjckC&hl=en) | [Jing Xiao](https://users.wpi.edu/~jxiao2/?_gl=1*hebd5t*_gcl_au*OTUxNTYxMC4xNzcyMzk1Nzc4*_ga*MTgzMjI3ODYzNi4xNzcyMzk1Nzc5*_ga_RE35PKQB7J*czE3NzIzOTU3NzgkbzEkZzAkdDE3NzI0MDY5MzUkajYwJGwwJGgw) | [Robert Katzschmann](https://srl.ethz.ch/) | [[speaker name10]](#) |
-| Waseda University/AIST/AIRoA | The German Aerospace Center (DLR) | Worcester Polytechnic Institute | ETH Zurich/Mimic Robotics | [affiliation10] |
-{: .speakers-table}
+<div class="gallery-container">
+    <div class="card">
+        <a href=" https://robertomartinmartin.com/">
+            <img src="assets/img/speakers/Roberto_Martin2.jpg" alt="Roberto_Martin_Picture">
+        </a>
+        <div class="card-text">Roberto Martin-Martin</div>
+        <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
+    </div>
+    <div class="card">
+        <a href="https://ogata-lab.jp/">
+            <img src="assets/img/speakers/Ogata2.jpg" alt="Tetsuya_Ogata_Picture">
+        </a>
+        <div class="card-text">Tetsuya Ogata</div>
+        <div class="card-affil">The University of Osaka</div>
+    </div>
+    <div class="card">
+        <a href="https://loop.frontiersin.org/people/128233/bio">
+            <img src="assets/img/speakers/Maximo_Roa2.png" alt="Maximo_Roa_Picture">
+        </a>
+        <div class="card-text">Máximo A. Roa</div>
+        <div class="card-affil">The German Aerospace Center</div>
+    </div>
+    <div class="card">
+        <a href="https://users.wpi.edu/~jxiao2/">
+            <img src="assets/img/speakers/JingXiao2.jpg" alt="Jing_Xiao_Picture">
+        </a>
+        <div class="card-text">Jing Xiao</div>
+        <div class="card-affil">Worcester Polytechnic Institute</div>
+    </div>
+    <div class="card">
+        <a href="TBD">
+            <img src="assets/img/speakers/avatar.jpg" alt="Speaker_10_Picture">
+        </a>
+        <div class="card-text">Speaker 10</div>
+        <div class="card-affil">TBD</div>
+    </div>
+</div>
+
+<p class="spacing_style"></p>
 
 
 ## Important Info {#important-info}
@@ -62,8 +130,11 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 | <span class="info-icon">🌐</span> | **Website**<br>[tbc](UPDATE_LATER) |
 {: .noborder-table}
 
+<p class="spacing-style"></p>
 
 ## Call for papers {#call-for-papers}
+
+<p class="spacing-style"></p>
 
 ### Topics of Interest include (but are not limited to):
 
@@ -77,35 +148,95 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 - Benchmarking and evaluation of precision, reliability, and performance
 - Safety, trustworthiness, and robustness in learning-enabled industrial robots
 
+<p class="spacing-style"></p>
+
 ### Submission guidelines                    <!-- Header 3.1 -->
 We invite submissions of extended abstracts up to 2 pages (excluding references).  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
+
+<p class="spacing-style"></p>
 
 ### Important dates                    <!-- Header 3.2 -->
 All deadlines are "time zone" anywhere on earth. 
 
 - [TBC]
 
+<p class="spacing-style"></p>
 
 ## Organizers {#organizers}
 
-| <img width="350" height="225" src="assets/img/organizers/Floris_Erich_profile_photo.png"> | <img width="350" height="225" src="assets/img/organizers/Roman_Mykhailyshyn.png"> | <img width="350" height="225" src="assets/img/organizers/Kei_Ota_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/Hao_Chen.jpg"> | <img width="350" height="225" src="assets/img/organizers/Diego_Romeres_profile_photo.jpg"> | <img width="350" height="225" src="assets/img/organizers/marina_y_aoyama_profile_photo.jpg"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Floris Erich](https://staff.aist.go.jp/floris.erich/) | [Roman Mykhailyshyn](https://romanmykhailyshyn.github.io/) | [Kei Ota](https://keiohta.github.io/) | [Hao Chen](https://chzjuou.github.io/) | [Diego Romeres](https://www.merl.com/people/romeres) | [Marina Y. Aoyama](https://sites.google.com/view/marinayaoyama/research) |
-| AIST | AIST/American University Kyiv | AIRoA/RIKEN | The University of Osaka | MERL | The University of Edinburgh |
-{: .speakers-table}
+<div class="gallery-container">
+    <div class="card">
+        <a href="https://staff.aist.go.jp/floris.erich/">
+            <img src="/assets/img/organizers/Floris_Erich3.jpg" alt="Floris_Erich_Picture">
+        </a>
+        <div class="card-text">Floris Erich</div>
+        <div class="card-affil">Advanced Industrial Science and Technology</div>
+    </div>
+    <div class="card">
+        <a href="https://romanmykhailyshyn.github.io/">
+            <img src="assets/img/organizers/Roman_Mykhailyshyn.png">
+        </a>
+        <div class="card-text">Roman Mykhailyshyn</div>
+        <div class="card-affil">Advanced Industrial Science and Technology<br>American University of Kyiv</div>
+    </div>
+    <div class="card">
+        <a herf="https://keiohta.github.io/">
+            <img src="/assets/img/organizers/Kei_Ota_profile_photo2.jpg">
+        </a>
+        <div class="card-text">Kei Ota</div>
+        <div class="card-affil">Ai Robot Associantion<br>RIKEN</div>
+    </div>
+    <div class="card">
+        <a href="https://chzjuou.github.io/">
+            <img src="/assets/img/organizers/Hao_Chen.jpg" alt="Hao_Chen_Picture">
+        </a>
+        <div class="card-text">Hao Chen</div>
+        <div class="card-affil">The University of Osaka</div>
+    </div>
+    <div class="card">
+        <a href="https://www.merl.com/people/romeres">
+            <img src="/assets/img/organizers/Diego_Romeres_profile_photo.jpg" alt="Diego_Romeres_Picture">
+        </a>
+        <div class="card-text">Diego Romeres</div>
+        <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
+    </div>
+    <div class="card">
+        <a href="https://sites.google.com/view/marinayaoyama/research">
+            <img src="/assets/img/organizers/marina_y_aoyama_profile_photo.jpg" alt="Marina_Aoyama_Picture">
+        </a>
+        <div class="card-text">Marina Y. Aoyama</div>
+        <div class="card-affil">The University of Edinburgh</div>
+    </div>
+</div>
+
+<p class="spacing_style"></p>
 
 
 ## Supported by                             <!-- Header 2.4 -->
 
-| <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> | <img width="350" src="assets/img/organizers/avatar.jpg"> |
-| Advanced Industrial Science and Technology | Toyota | Mitsubishi | AIRoA |
-
-<!--The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
-
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
-
-If you experience issues or have cool features to add, feel free to [fork this template](). -->
+<div class="gallery-container">
+    <div class="card">
+        <a href="TBD">
+            <img src="/assets/img/organizers/avatar.jpg" alt="Sponser1_Picture">
+        </a>
+        <div class="card-text">Sponser1_Name</div>
+    </div>
+    <div class="card">
+        <a href="TBD" >
+            <img src="/assets/img/organizers/avatar.jpg" alt="Sponser2_Picture">
+        </a>
+        <div class="card-text">Sponser2_Name</div>
+    </div>
+    <div class="card">
+        <a href="TBD">
+            <img src="/assets/img/organizers/avatar.jpg" alt="Sponcer3_Picture">
+        </a>
+        <div class="card-text">Sponcer3_Name</div>
+    </div>
+    <div class="card">
+        <a href="TBD">
+            <img src="/assets/img/organizers/avatar.jpg" alt="Sponser4_Picture">
+        </a>
+        <div class="card-text">Sponser4_Name</div>
+    </div>
+</div>

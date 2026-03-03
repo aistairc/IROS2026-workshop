@@ -180,7 +180,7 @@ All deadlines are "time zone" anywhere on earth.
         <div class="card-affil">Advanced Industrial Science and Technology<br>American University of Kyiv</div>
     </div>
     <div class="card">
-        <a herf="https://keiohta.github.io/">
+        <a href="https://keiohta.github.io/">
             <img src="/assets/img/organizers/Kei_Ota_profile_photo.jpg">
         </a>
         <div class="card-text">Kei Ota</div>

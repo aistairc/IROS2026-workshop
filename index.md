@@ -46,28 +46,28 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
     </div>
     <div class="card">
         <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en">
-            <img src="assets/img/speakers/jose_berreiros_profile_photo2.jpeg" alt="Jose_Berreiros_Picture">
+            <img src="assets/img/speakers/jose_berreiros_profile_photo.jpeg" alt="Jose_Berreiros_Picture">
         </a>
         <div class="card-text">Jose Berreiros</div>
         <div class="card-affil">Toyota Research Institute</div>
     </div>
     <div class="card">
         <a href="https://researchmap.jp/yukiyasu-domae">
-            <img src="assets/img/speakers/YukiyasuDomae2.png" alt="Yukiyasu_Domae_picture">
+            <img src="assets/img/speakers/YukiyasuDomae.png" alt="Yukiyasu_Domae_picture">
         </a>
         <div class="card-text">Yukiyasu Domae</div>
         <div class="card-affil">Advanced Industrial Science and Technology</div>
     </div>
     <div class="card">
         <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/">
-            <img src="assets/img/speakers/Kensuke_Harada2.png" alt="Kensuke_Harada_Picture">
+            <img src="assets/img/speakers/Kensuke_Harada.png" alt="Kensuke_Harada_Picture">
         </a>
         <div class="card-text">Kensuke Harada</div>
         <div class="card-affil">The University of Osaka</div>
     </div>
     <div class="card">
         <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html">
-            <img src="/assets/img/speakers/Robert_Katzschmann2.jpg" alt="Robert_Katzschmann_Picture">
+            <img src="/assets/img/speakers/Robert_Katzschmann.jpg" alt="Robert_Katzschmann_Picture">
         </a>
         <div class="card-text">Robert Katzchmann</div>
         <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
@@ -79,28 +79,28 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 <div class="gallery-container">
     <div class="card">
         <a href=" https://robertomartinmartin.com/">
-            <img src="assets/img/speakers/Roberto_Martin2.jpg" alt="Roberto_Martin_Picture">
+            <img src="assets/img/speakers/Roberto_Martin.jpg" alt="Roberto_Martin_Picture">
         </a>
         <div class="card-text">Roberto Martin-Martin</div>
         <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
     </div>
     <div class="card">
         <a href="https://ogata-lab.jp/">
-            <img src="assets/img/speakers/Ogata2.jpg" alt="Tetsuya_Ogata_Picture">
+            <img src="assets/img/speakers/Ogata.jpg" alt="Tetsuya_Ogata_Picture">
         </a>
         <div class="card-text">Tetsuya Ogata</div>
         <div class="card-affil">The University of Osaka</div>
     </div>
     <div class="card">
         <a href="https://loop.frontiersin.org/people/128233/bio">
-            <img src="assets/img/speakers/Maximo_Roa2.png" alt="Maximo_Roa_Picture">
+            <img src="assets/img/speakers/Maximo_Roa.png" alt="Maximo_Roa_Picture">
         </a>
         <div class="card-text">Máximo A. Roa</div>
         <div class="card-affil">The German Aerospace Center</div>
     </div>
     <div class="card">
         <a href="https://users.wpi.edu/~jxiao2/">
-            <img src="assets/img/speakers/JingXiao2.jpg" alt="Jing_Xiao_Picture">
+            <img src="assets/img/speakers/JingXiao.jpg" alt="Jing_Xiao_Picture">
         </a>
         <div class="card-text">Jing Xiao</div>
         <div class="card-affil">Worcester Polytechnic Institute</div>
@@ -167,7 +167,7 @@ All deadlines are "time zone" anywhere on earth.
 <div class="gallery-container">
     <div class="card">
         <a href="https://staff.aist.go.jp/floris.erich/">
-            <img src="/assets/img/organizers/Floris_Erich3.jpg" alt="Floris_Erich_Picture">
+            <img src="/assets/img/organizers/Floris_Erich.jpg" alt="Floris_Erich_Picture">
         </a>
         <div class="card-text">Floris Erich</div>
         <div class="card-affil">Advanced Industrial Science and Technology</div>
@@ -181,7 +181,7 @@ All deadlines are "time zone" anywhere on earth.
     </div>
     <div class="card">
         <a herf="https://keiohta.github.io/">
-            <img src="/assets/img/organizers/Kei_Ota_profile_photo2.jpg">
+            <img src="/assets/img/organizers/Kei_Ota_profile_photo.jpg">
         </a>
         <div class="card-text">Kei Ota</div>
         <div class="card-affil">Ai Robot Associantion<br>RIKEN</div>

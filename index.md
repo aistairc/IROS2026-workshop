@@ -46,9 +46,9 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
     </div>
     <div class="card">
         <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en">
-            <img src="assets/img/speakers/jose_berreiros_profile_photo.jpeg" alt="Jose_Berreiros_Picture">
+            <img src="assets/img/speakers/jose_barreiros_profile_photo.jpeg" alt="Jose_Berreiros_Picture">
         </a>
-        <div class="card-text">Jose Berreiros</div>
+        <div class="card-text">Jose Barreiros</div>
         <div class="card-affil">Toyota Research Institute</div>
     </div>
     <div class="card">

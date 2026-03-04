@@ -38,39 +38,39 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <div class="gallery-container">
     <div class="card">
-        <a href="https://contactrika.github.io/"> 
+        <a href="https://contactrika.github.io/" target="_blank"> 
             <img src="./assets/img/speakers/Rika_Antonova.png" alt="Rika_Antonova_Picture">
+            <div class="card-text">Rika Antonova</div>
         </a>
-        <div class="card-text">Rika Antonova</div>
         <div class="card-affil">The University of Cambridge</div>
     </div>
     <div class="card">
-        <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en">
+        <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en" target="_blank">
             <img src="./assets/img/speakers/jose_barreiros_profile_photo.png" alt="Jose_Barreiros_Picture">
+            <div class="card-text">Jose Barreiros</div>
         </a>
-        <div class="card-text">Jose Barreiros</div>
         <div class="card-affil">Toyota Research Institute</div>
     </div>
     <div class="card">
-        <a href="https://researchmap.jp/yukiyasu-domae">
+        <a href="https://researchmap.jp/yukiyasu-domae" target="_blank">
             <img src="./assets/img/speakers/YukiyasuDomae.png" alt="Yukiyasu_Domae_picture">
+            <div class="card-text">Yukiyasu Domae</div>
         </a>
-        <div class="card-text">Yukiyasu Domae</div>
         <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
     </div>
     <div class="card">
-        <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/">
+        <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/" target="_blank">
             <img src="./assets/img/speakers/Kensuke_Harada.png" alt="Kensuke_Harada_Picture">
+            <div class="card-text">Kensuke Harada</div>
         </a>
-        <div class="card-text">Kensuke Harada</div>
         <div class="card-affil">The University of Osaka</div>
     </div>
     <div class="card">
-        <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html">
+        <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html" target="_blank">
             <img src="./assets/img/speakers/Robert_Katzschmann.png" alt="Robert_Katzschmann_Picture">
+            <div class="card-text">Robert Katzchmann</div>
         </a>
-        <div class="card-text">Robert Katzchmann</div>
-        <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
+        <div class="card-affil">Swiss Federal Institute of Technology Zurich<br>Mimic Robotics</div>
     </div>
 </div>
 
@@ -78,38 +78,38 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <div class="gallery-container">
     <div class="card">
-        <a href=" https://robertomartinmartin.com/">
+        <a href=" https://robertomartinmartin.com/" target="_blank">
             <img src="./assets/img/speakers/Roberto_Martin.png" alt="Roberto_Martin_Picture">
+            <div class="card-text">Roberto Martin-Martin</div>
         </a>
-        <div class="card-text">Roberto Martin-Martin</div>
         <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
     </div>
     <div class="card">
-        <a href="https://ogata-lab.jp/">
+        <a href="https://ogata-lab.jp/" target="_blank">
             <img src="./assets/img/speakers/Ogata.png" alt="Tetsuya_Ogata_Picture">
+            <div class="card-text">Tetsuya Ogata</div>
         </a>
-        <div class="card-text">Tetsuya Ogata</div>
         <div class="card-affil">The University of Osaka</div>
     </div>
     <div class="card">
-        <a href="https://loop.frontiersin.org/people/128233/bio">
+        <a href="https://loop.frontiersin.org/people/128233/bio" target="_blank">
             <img src="./assets/img/speakers/Maximo_Roa.png" alt="Maximo_Roa_Picture">
+            <div class="card-text">Máximo A. Roa</div>
         </a>
-        <div class="card-text">Máximo A. Roa</div>
         <div class="card-affil">The German Aerospace Center</div>
     </div>
     <div class="card">
-        <a href="https://users.wpi.edu/~jxiao2/">
+        <a href="https://users.wpi.edu/~jxiao2/" target="_blank">
             <img src="./assets/img/speakers/JingXiao.png" alt="Jing_Xiao_Picture">
+            <div class="card-text">Jing Xiao</div>
         </a>
-        <div class="card-text">Jing Xiao</div>
         <div class="card-affil">Worcester Polytechnic Institute</div>
     </div>
     <div class="card">
-        <a href="TBD">
+        <a href="TBD" target="_blank">
             <img src="./assets/img/speakers/avatar.jpg" alt="Speaker_10_Picture">
+            <div class="card-text">Speaker 10</div>
         </a>
-        <div class="card-text">Speaker 10</div>
         <div class="card-affil">TBD</div>
     </div>
 </div>
@@ -166,45 +166,45 @@ All deadlines are "time zone" anywhere on earth.
 
 <div class="gallery-container">
     <div class="card">
-        <a href="https://staff.aist.go.jp/floris.erich/">
+        <a href="https://staff.aist.go.jp/floris.erich/" target="_blank">
             <img src="./assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
+            <div class="card-text">Floris Erich</div>
         </a>
-        <div class="card-text">Floris Erich</div>
         <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
     </div>
     <div class="card">
-        <a href="https://romanmykhailyshyn.github.io/">
+        <a href="https://romanmykhailyshyn.github.io/" target="_blank">
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
+            <div class="card-text">Roman Mykhailyshyn</div>
         </a>
-        <div class="card-text">Roman Mykhailyshyn</div>
         <div class="card-affil">National Institute of Advanced Industrial Science and Technology<br>American University of Kyiv</div>
     </div>
     <div class="card">
-        <a href="https://keiohta.github.io/">
+        <a href="https://keiohta.github.io/" target="_blank">
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
+            <div class="card-text">Kei Ota</div>
         </a>
-        <div class="card-text">Kei Ota</div>
         <div class="card-affil">AI Robot Association<br>RIKEN</div>
     </div>
     <div class="card">
-        <a href="https://chzjuou.github.io/">
+        <a href="https://chzjuou.github.io/" target="_blank">
             <img src="./assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
+            <div class="card-text">Hao Chen</div>
         </a>
-        <div class="card-text">Hao Chen</div>
         <div class="card-affil">The University of Osaka</div>
     </div>
     <div class="card">
-        <a href="https://www.merl.com/people/romeres">
+        <a href="https://www.merl.com/people/romeres" target="_blank">
             <img src="./assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
+            <div class="card-text">Diego Romeres</div>
         </a>
-        <div class="card-text">Diego Romeres</div>
         <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
     </div>
     <div class="card">
-        <a href="https://sites.google.com/view/marinayaoyama/research">
+        <a href="https://sites.google.com/view/marinayaoyama/research" target="_blank">
             <img src="./assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
+            <div class="card-text">Marina Y. Aoyama</div>
         </a>
-        <div class="card-text">Marina Y. Aoyama</div>
         <div class="card-affil">The University of Edinburgh</div>
     </div>
 </div>

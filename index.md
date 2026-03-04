@@ -46,7 +46,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
     </div>
     <div class="card">
         <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en">
-            <img src="./assets/img/speakers/jose_barreiros_profile_photo.png" alt="Jose_Berreiros_Picture">
+            <img src="./assets/img/speakers/jose_barreiros_profile_photo.png" alt="Jose_Barreiros_Picture">
         </a>
         <div class="card-text">Jose Barreiros</div>
         <div class="card-affil">Toyota Research Institute</div>
@@ -56,7 +56,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
             <img src="./assets/img/speakers/YukiyasuDomae.png" alt="Yukiyasu_Domae_picture">
         </a>
         <div class="card-text">Yukiyasu Domae</div>
-        <div class="card-affil">Advanced Industrial Science and Technology</div>
+        <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
     </div>
     <div class="card">
         <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/">
@@ -170,21 +170,21 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
         </a>
         <div class="card-text">Floris Erich</div>
-        <div class="card-affil">Advanced Industrial Science and Technology</div>
+        <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
     </div>
     <div class="card">
         <a href="https://romanmykhailyshyn.github.io/">
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
         </a>
         <div class="card-text">Roman Mykhailyshyn</div>
-        <div class="card-affil">Advanced Industrial Science and Technology<br>American University of Kyiv</div>
+        <div class="card-affil">National Institute of Advanced Industrial Science and Technology<br>American University of Kyiv</div>
     </div>
     <div class="card">
         <a href="https://keiohta.github.io/">
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
         </a>
         <div class="card-text">Kei Ota</div>
-        <div class="card-affil">Ai Robot Associantion<br>RIKEN</div>
+        <div class="card-affil">AI Robot Associantion<br>RIKEN</div>
     </div>
     <div class="card">
         <a href="https://chzjuou.github.io/">

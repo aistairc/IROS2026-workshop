@@ -184,7 +184,7 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
         </a>
         <div class="card-text">Kei Ota</div>
-        <div class="card-affil">AI Robot Associantion<br>RIKEN</div>
+        <div class="card-affil">AI Robot Association<br>RIKEN</div>
     </div>
     <div class="card">
         <a href="https://chzjuou.github.io/">

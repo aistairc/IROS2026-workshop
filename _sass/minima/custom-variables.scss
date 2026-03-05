@@ -8,45 +8,42 @@
 
 .gallery-container {
   display: grid;
-  /* Creates responsive columns: at least 200px wide, sharing available space equally */
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 20px; /* Provides spacing between grid items */
-  list-style: none; /* Removes default list styling if using <ul><li> */
+  gap: 20px;
+  list-style: none; 
   margin: 0;
   padding: 0;
 }
 
 .card {
-  /* Ensure no default border is present */
   border: none; 
   border-radius: 5px;
-  /* Optional: add a subtle shadow or background for visual separation if desired */
   box-shadow: 0 2px 4px rgb(248, 248, 248); 
-  overflow: hidden; /* Ensures image corners respect the border-radius */
+  overflow: hidden;
   padding: 5px;
 }
 
 .card img {
-  max-width: 190px; /* Image takes the full width of the card */
-  max-height: 190px; /* Maintains aspect ratio */
-  border-radius: 75%; /* Removes extra space below the image */
+  max-width: 190px; 
+  max-height: 190px; 
+  border-radius: 75%; 
   padding: 5px;
 }
 
 .card-text {
-  padding: 10px; /* Space around the text */
+  padding: 10px; 
   padding-bottom: 5px;
-  text-align: center; /* Centers the text */
-  background-color: #f9f9f9; /* Optional: adds a background to the text area */
+  text-align: center; 
+  background-color: #f9f9f9; 
   color: #333;
   font-weight: bold;
   font-size: 20px;
 }
  .card-affil{
-    padding: 15px; /* Space around the text */
+    padding: 15px;
     margin-bottom: 20px;
-    text-align: center; /* Centers the text */
-    background-color: #f9f9f9; /* Optional: adds a background to the text area */
+    text-align: center; 
+    background-color: #f9f9f9; 
     color: #333;
     font-style: italic;
     font-size: small;
@@ -55,3 +52,9 @@
  .spacing_style{
     margin-bottom: 40px;
  }
+
+/*Banner-box*/
+.center-logo {
+  display: block; 
+  margin: 40px auto; 
+}

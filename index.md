@@ -49,7 +49,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <p class="spacing_style"></p>
 
-### <strong>Speakers and Panelists {#speakers}</strong>
+### <strong>Speakers and Panelists</strong> {#speakers}
 
 <div class="gallery-container">
     <div class="card">
@@ -132,7 +132,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 <p class="spacing_style"></p>
 
 
-### <strong>Important Info {#important-info}</strong>
+### <strong>Important Information</strong> {#important-info}
 
 | | |
 |---:|:---|
@@ -152,7 +152,7 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
 
 <p class="spacing-style"></p>
 
-### <strong>Organizers {#organizers}</strong>
+### <strong>Organizers</strong> {#organizers}
 
 <div class="gallery-container">
     <div class="card">

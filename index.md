@@ -192,7 +192,7 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
             <div class="card-text">Roman Mykhailyshyn</div>
         </a>
-        <div class="card-affil">AIST<br>American University of Kyiv</div>
+        <div class="card-affil">AIST<br>American University Kyiv</div>
     </div>
     <div class="card">
         <a href="https://keiohta.github.io/" target="_blank">

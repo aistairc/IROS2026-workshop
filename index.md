@@ -57,14 +57,14 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
             <img src="./assets/img/speakers/Rika_Antonova.png" alt="Rika_Antonova_Picture">
             <div class="card-text">Rika Antonova</div>
         </a>
-        <div class="card-affil">The University of Cambridge</div>
+        <div class="card-affil">University of Cambridge</div>
     </div>
     <div class="card">
         <a href="https://scholar.google.com/citations?user=mLFRRpkAAAAJ&hl=en" target="_blank">
             <img src="./assets/img/speakers/jose_barreiros_profile_photo.png" alt="Jose_Barreiros_Picture">
             <div class="card-text">Jose Barreiros</div>
         </a>
-        <div class="card-affil">Toyota Research Institute</div>
+        <div class="card-affil">TRI<br>Amazon Robotics</div>
     </div>
     <div class="card">
         <a href="https://researchmap.jp/yukiyasu-domae" target="_blank">
@@ -78,14 +78,14 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
             <img src="./assets/img/speakers/Kensuke_Harada.png" alt="Kensuke_Harada_Picture">
             <div class="card-text">Kensuke Harada</div>
         </a>
-        <div class="card-affil">The University of Osaka</div>
+        <div class="card-affil">University of Osaka</div>
     </div>
     <div class="card">
         <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html" target="_blank">
             <img src="./assets/img/speakers/Robert_Katzschmann.png" alt="Robert_Katzschmann_Picture">
             <div class="card-text">Robert Katzchmann</div>
         </a>
-        <div class="card-affil">Swiss Federal Institute of Technology Zurich<br>Mimic Robotics</div>
+        <div class="card-affil">ETH Zurich<br>Mimic Robotics</div>
     </div>
 </div>
 
@@ -97,21 +97,21 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
             <img src="./assets/img/speakers/Roberto_Martin.png" alt="Roberto_Martin_Picture">
             <div class="card-text">Roberto Martin-Martin</div>
         </a>
-        <div class="card-affil">The University of Texas at Austin<br>Amazon</div>
+        <div class="card-affil">UT Austin<br>Amazon Robotics</div>
     </div>
     <div class="card">
         <a href="https://ogata-lab.jp/" target="_blank">
             <img src="./assets/img/speakers/Ogata.png" alt="Tetsuya_Ogata_Picture">
             <div class="card-text">Tetsuya Ogata</div>
         </a>
-        <div class="card-affil">The University of Osaka</div>
+        <div class="card-affil">Waseda University</div>
     </div>
     <div class="card">
         <a href="https://loop.frontiersin.org/people/128233/bio" target="_blank">
             <img src="./assets/img/speakers/Maximo_Roa.png" alt="Maximo_Roa_Picture">
             <div class="card-text">Máximo A. Roa</div>
         </a>
-        <div class="card-affil">The German Aerospace Center</div>
+        <div class="card-affil">German Aerospace Center</div>
     </div>
     <div class="card">
         <a href="https://users.wpi.edu/~jxiao2/" target="_blank">
@@ -192,7 +192,7 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
             <div class="card-text">Roman Mykhailyshyn</div>
         </a>
-        <div class="card-affil">National Institute of Advanced Industrial Science and Technology<br>American University of Kyiv</div>
+        <div class="card-affil">AIST<br>American University of Kyiv</div>
     </div>
     <div class="card">
         <a href="https://keiohta.github.io/" target="_blank">
@@ -206,7 +206,7 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
             <div class="card-text">Hao Chen</div>
         </a>
-        <div class="card-affil">The University of Osaka</div>
+        <div class="card-affil">University of Osaka</div>
     </div>
     <div class="card">
         <a href="https://www.merl.com/people/romeres" target="_blank">
@@ -220,7 +220,7 @@ All deadlines are "time zone" anywhere on earth.
             <img src="./assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
             <div class="card-text">Marina Y. Aoyama</div>
         </a>
-        <div class="card-affil">The University of Edinburgh</div>
+        <div class="card-affil">University of Edinburgh</div>
     </div>
 </div>
 

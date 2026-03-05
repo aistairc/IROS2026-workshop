@@ -24,11 +24,11 @@ layout: home
   }
 </style>
 
-#  **1st International Workshop on Industrial Applications of Robot Learning**   <!-- Header1 -->
+<!-- #  **1st International Workshop on Industrial Applications of Robot Learning** -->  <!-- Header1 -->
 
 <img src="./assets/img/banner.png" alt="Banner" class="center-logo"> 
 
-## About                            <!-- Header 2.1 -->
+### <strong>About</strong>                            
 Robot Learning is ready to leave the lab and go into industry as proven by the recent wave of Embodied AI and Physical AI startups jointly attracting billions of dollars in investment. Over the past decade, advances in deep reinforcement learning, imitation learning, large-scale simulation, and foundation models have enabled robots to learn tasks from data and operate in less structured environments. Unlike traditional industrial robots that depend on rigid programming and controlled settings, these systems promise greater autonomy and adaptability for real-world deployment. In this workshop we will discuss the state-of-the-art in industrial applications of robot learning with speakers working on the frontlines both in industry and in academia. Motivated by the global importance of this transition, efforts are underway worldwide, including startup- and industry-driven projects in the US, large-scale programs across Europe, such as Robust and Trustworthy Generative AI for Robotics and Industrial Automation (RIA), and projects in Asia, including JST and NEDO initiatives in Japan supporting learning-based industrial robotics. As robot learning approaches real-world deployment, this workshop will foster discussion on a central question for industry: whether robot learning is ready to meet the high standards of precision, reliability, safety, and robustness in industrial applications, and how to bridge the remaining gaps to achieve them.
 
 <p class="spacing_style"></p>
@@ -49,7 +49,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <p class="spacing_style"></p>
 
-## Speakers and Panelists {#speakers}
+### <strong>Speakers and Panelists {#speakers}</strong>
 
 <div class="gallery-container">
     <div class="card">
@@ -132,7 +132,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 <p class="spacing_style"></p>
 
 
-## Important Info {#important-info}
+### <strong>Important Info {#important-info}</strong>
 
 | | |
 |---:|:---|
@@ -147,12 +147,12 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <p class="spacing-style"></p>
 
-### Submission guidelines                    <!-- Header 3.1 -->
+### Submission guidelines                   
 We invite submissions of extended abstracts up to 2 pages (excluding references).  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
 
 <p class="spacing-style"></p>
 
-## Organizers {#organizers}
+### <strong>Organizers {#organizers}</strong>
 
 <div class="gallery-container">
     <div class="card">
@@ -202,7 +202,7 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
 <p class="spacing_style"></p>
 
 
-## Supported by                             <!-- Header 2.4 -->
+### <strong>Supported by</strong>                           
 
 <div class="gallery-container">
     <div class="card">

@@ -26,8 +26,7 @@ layout: home
 
 #  **1st International Workshop on Industrial Applications of Robot Learning**   <!-- Header1 -->
 
-<!--insert video or picture below from assets. The link below is a placeholder.-->
-![img description here](assets/img/banner.jpg) 
+<img src="./assets/img/banner.jpg" alt="Banner" class="center-logo"> 
 
 ## About                            <!-- Header 2.1 -->
 Robot Learning is ready to leave the lab and go into industry as proven by the recent wave of Embodied AI and Physical AI startups jointly attracting billions of dollars in investment. Over the past decade, advances in deep reinforcement learning, imitation learning, large-scale simulation, and foundation models have enabled robots to learn tasks from data and operate in less structured environments. Unlike traditional industrial robots that depend on rigid programming and controlled settings, these systems promise greater autonomy and adaptability for real-world deployment. In this workshop we will discuss the state-of-the-art in industrial applications of robot learning with speakers working on the frontlines both in industry and in academia. Motivated by the global importance of this transition, efforts are underway worldwide, including startup- and industry-driven projects in the US, large-scale programs across Europe, such as Robust and Trustworthy Generative AI for Robotics and Industrial Automation (RIA), and projects in Asia, including JST and NEDO initiatives in Japan supporting learning-based industrial robotics. As robot learning approaches real-world deployment, this workshop will foster discussion on a central question for industry: whether robot learning is ready to meet the high standards of precision, reliability, safety, and robustness in industrial applications, and how to bridge the remaining gaps to achieve them.

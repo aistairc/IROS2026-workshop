@@ -33,6 +33,22 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <p class="spacing_style"></p>
 
+<h3>Topics of Interest include (but are not limited to):</h3>
+
+<ul>
+    <li>Industrial applications of robot learning</li>
+    <li>Learning visual, force, tactile, and audio perception</li> 
+    <li>Learning dexterous manipulation</li>
+    <li>Learning-based manipulation and long-horizon task execution</li> 
+    <li>Sim-to-real transfer and data-efficient learning</li>
+    <li>Foundation models and generative AI for industrial robots</li>
+    <li>Human-robot collaboration and adaptive shared autonomy</li>
+    <li>Benchmarking and evaluation of precision, reliability, and performance</li>
+    <li>Safety, trustworthiness, and robustness in learning-enabled industrial robots</li>
+</ul>
+
+<p class="spacing_style"></p>
+
 ## Speakers and Panelists {#speakers}
 
 <div class="gallery-container">

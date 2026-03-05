@@ -147,33 +147,8 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 <p class="spacing-style"></p>
 
-## Call for papers {#call-for-papers}
-
-<p class="spacing-style"></p>
-
-### Topics of Interest include (but are not limited to):
-
-- Industrial applications of robot learning
-- Learning visual, force, tactile, and audio perception 
-- Learning dexterous manipulation
-- Learning-based manipulation and long-horizon task execution 
-- Sim-to-real transfer and data-efficient learning
-- Foundation models and generative AI for industrial robots
-- Human-robot collaboration and adaptive shared autonomy
-- Benchmarking and evaluation of precision, reliability, and performance
-- Safety, trustworthiness, and robustness in learning-enabled industrial robots
-
-<p class="spacing-style"></p>
-
 ### Submission guidelines                    <!-- Header 3.1 -->
 We invite submissions of extended abstracts up to 2 pages (excluding references).  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
-
-<p class="spacing-style"></p>
-
-### Important dates                    <!-- Header 3.2 -->
-All deadlines are "time zone" anywhere on earth. 
-
-- [TBC]
 
 <p class="spacing-style"></p>
 

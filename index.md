@@ -198,43 +198,43 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
     <div class="card">
         <a href="https://staff.aist.go.jp/floris.erich/" target="_blank">
             <img src="./assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
+            <div class="card-text">Floris Erich</div>
         </a>
-        <div class="card-text">Floris Erich</div>
         <div class="card-affil">AIST</div>
     </div>
     <div class="card">
         <a href="https://romanmykhailyshyn.github.io/" target="_blank">
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
+            <div class="card-text">Roman Mykhailyshyn</div>
         </a>
-        <div class="card-text">Roman Mykhailyshyn</div>
         <div class="card-affil">AIST<br>American University Kyiv</div>
     </div>
     <div class="card">
         <a herf="https://keiohta.github.io/" target="_blank">
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
+            <div class="card-text">Kei Ota</div>
         </a>
-        <div class="card-text">Kei Ota</div>
         <div class="card-affil">AI Robot Association<br>RIKEN</div>
     </div>
     <div class="card">
         <a href="https://chzjuou.github.io/" target="_blank">
             <img src="./assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
+            <div class="card-text">Hao Chen</div>
         </a>
-        <div class="card-text">Hao Chen</div>
         <div class="card-affil">University of Osaka</div>
     </div>
     <div class="card">
         <a href="https://www.merl.com/people/romeres" target="_blank">
             <img src="./assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
+            <div class="card-text">Diego Romeres</div>
         </a>
-        <div class="card-text">Diego Romeres</div>
         <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
     </div>
     <div class="card">
         <a href="https://sites.google.com/view/marinayaoyama/research" target="_blank">
             <img src="./assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
+            <div class="card-text">Marina Y. Aoyama</div>
         </a>
-        <div class="card-text">Marina Y. Aoyama</div>
         <div class="card-affil">University of Edinburgh</div>
     </div>
 </div>

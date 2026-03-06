@@ -134,16 +134,58 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
 
 ### <strong>Important Information</strong> {#important-info}
 
-| | |
-|---:|:---|
-| <span class="info-icon">📍</span> | **Venue**<br>IROS 2026 · Pittsburgh |
-| <span class="info-icon">🖥️</span> | **Format**<br>Hybrid: in-person + livestream; talks, spotlights, posters, panel |
-| <span class="info-icon">🏆</span> | **Awards**<br>Best Paper |
-| <span class="info-icon">📅</span> | **Call for Papers Opens**<br>TBC |
-| <span class="info-icon">⏳</span> | **Submission Deadline**<br>TBC |
-| <span class="info-icon">📧</span> | **Contact**<br>Email the organisers: [tbc](mailto:UPDATE_LATER@ed.ac.uk) |
-| <span class="info-icon">🌐</span> | **Website**<br>[tbc](UPDATE_LATER) |
-{: .noborder-table}
+<div class="info-grid">
+    <div class="info-card">
+        <div class="info-icon">📍</div>
+        <div class="info-text">
+            <div class="info">Venue</div>
+            <div class="sub">IROS 2026 · Pittsburgh</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">🖥️</div>
+        <div class="info-text">
+            <div class="info">Format</div>
+            <div class="sub">Hybrid: in-person + livestream; talks, spotlights, posters, panel</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">🏆</div>
+        <div class="info-text">
+            <div class="info">Awards</div>
+            <div class="sub">Best Paper</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">📅</div>
+        <div class="info-text">
+            <div class="info">Call for Papers</div>
+            <div class="sub">TBD</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">⏳</div>
+        <div class="info-text">
+            <div class="info">Submission Deadline</div>
+            <div class="sub">TBD</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">📧</div>
+        <div class="info-text">
+            <div class="info">Contact</div>
+            <div class="sub">TBD</div>
+        </div>
+    </div>
+    <div class="info-card">
+        <div class="info-icon">🌐</div>
+        <div class="info-text">
+            <div class="info">Website</div>
+            <div class="sub">TBD</div>
+        </div>
+    </div>
+
+</div>
 
 <p class="spacing-style"></p>
 

@@ -1,4 +1,6 @@
-/// Placeholder to allow overriding predefined variables smoothly.
+// Placeholder to allow overriding predefined variables smoothly.
+
+/*Round picture*/
 .people-pic {
   max-width: 200px;
   max-height: 200px;
@@ -6,50 +8,83 @@
   padding: 0;
 }
 
+/*Responsive gallery grid*/
 .gallery-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 20px;
-  list-style: none; 
-  margin: 0;
-  padding: 0;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1200px;
 }
 
 .card {
-  border: none; 
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgb(248, 248, 248); 
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   overflow: hidden;
-  padding: 5px;
+  padding: 10px;
+  text-align: center;
+  background: #fff;
 }
 
 .card img {
-  max-width: 190px; 
-  max-height: 190px; 
-  border-radius: 75%; 
-  padding: 5px;
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: auto;
+  display: block;
 }
 
 .card-text {
-  padding: 10px; 
-  padding-bottom: 5px;
-  text-align: center; 
-  background-color: #f9f9f9; 
+  padding: 10px 5px 5px;
+  text-align: center;
+  background-color: #fff;
   color: #333;
   font-weight: bold;
-  font-size: 20px;
+  font-size: clamp(16px, 2vw, 20px);
 }
- .card-affil{
-    padding: 15px;
-    margin-bottom: 20px;
-    text-align: center; 
-    background-color: #f9f9f9; 
-    color: #333;
-    font-style: italic;
-    font-size: small;
- }
 
- .spacing_style{
+.card-affil{
+  padding: 8px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  color: #333;
+  font-style: italic;
+  font-size: clamp(12px, 1.8vw, 14px);
+}
+
+/*Responsive one line gallery grid*/
+.centered-gallery {
+  width: fit-content; 
+  margin: 40px auto;  
+}
+
+.one-line-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); 
+  gap: 15px;
+  justify-content: center; 
+  margin: 40px auto;
+}
+
+.one-line-gallery .card {
+  padding: 5px;
+}
+
+/*Resize image*/
+.one-line-gallery .card img {
+  max-width: 160px;
+  max-height: 160px;
+}
+
+/*Spacing in between Topics*/
+.spacing_style{
     margin-bottom: 40px;
  }
 
@@ -57,4 +92,50 @@
 .center-logo {
   display: block; 
   margin: 40px auto; 
+}
+
+/*Responsive info grid*/
+.info-grid{
+    width: 100%;
+    max-width: 1100px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 20px;
+}
+
+.info-card{
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 18px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background: #fff;
+    transition: 0.2s ease;
+}
+
+.info-card:hover{
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.info-icon{
+    font-size: 22px;
+    color: black;
+}
+
+.info-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.info{
+    font-weight: 600;
+    color:#333;
+}
+
+.sub{
+    font-size: 13px;
+    color:#666;
+    margin-top: 4px;
 }

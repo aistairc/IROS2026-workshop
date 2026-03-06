@@ -71,7 +71,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
             <img src="./assets/img/speakers/YukiyasuDomae.png" alt="Yukiyasu_Domae_picture">
             <div class="card-text">Yukiyasu Domae</div>
         </a>
-        <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
+        <div class="card-affil">AIST</div>
     </div>
     <div class="card">
         <a href="https://www.roboticmanipulation.org/members2/kensuke-harada/" target="_blank">
@@ -153,7 +153,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
         <div class="info-icon">🏆</div>
         <div class="info-text">
             <div class="info">Awards</div>
-            <div class="sub">Best Paper</div>
+            <div class="sub">Best Paper($1000),<br>Best Student Paper($1000),<br>Best Poster Presentation($500)</div>
         </div>
     </div>
     <div class="info-card">
@@ -196,47 +196,47 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
 
 ### <strong>Organizers</strong> {#organizers}
 
-<div class="gallery-container">
+<div class="gallery-container one-line-gallery">
     <div class="card">
-        <a href="https://staff.aist.go.jp/floris.erich/" target="_blank">
-            <img src="./assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
-            <div class="card-text">Floris Erich</div>
+        <a href="https://staff.aist.go.jp/floris.erich/">
+            <img src="/assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
         </a>
-        <div class="card-affil">National Institute of Advanced Industrial Science and Technology</div>
+        <div class="card-text">Floris Erich</div>
+        <div class="card-affil">AIST</div>
     </div>
     <div class="card">
-        <a href="https://romanmykhailyshyn.github.io/" target="_blank">
-            <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
-            <div class="card-text">Roman Mykhailyshyn</div>
+        <a href="https://romanmykhailyshyn.github.io/">
+            <img src="assets/img/organizers/Roman_Mykhailyshyn.png">
         </a>
+        <div class="card-text">Roman Mykhailyshyn</div>
         <div class="card-affil">AIST<br>American University Kyiv</div>
     </div>
     <div class="card">
-        <a href="https://keiohta.github.io/" target="_blank">
-            <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
-            <div class="card-text">Kei Ota</div>
+        <a herf="https://keiohta.github.io/">
+            <img src="/assets/img/organizers/Kei_Ota_profile_photo.png">
         </a>
+        <div class="card-text">Kei Ota</div>
         <div class="card-affil">AI Robot Association<br>RIKEN</div>
     </div>
     <div class="card">
-        <a href="https://chzjuou.github.io/" target="_blank">
-            <img src="./assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
-            <div class="card-text">Hao Chen</div>
+        <a href="https://chzjuou.github.io/">
+            <img src="/assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
         </a>
+        <div class="card-text">Hao Chen</div>
         <div class="card-affil">University of Osaka</div>
     </div>
     <div class="card">
-        <a href="https://www.merl.com/people/romeres" target="_blank">
-            <img src="./assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
-            <div class="card-text">Diego Romeres</div>
+        <a href="https://www.merl.com/people/romeres">
+            <img src="/assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
         </a>
+        <div class="card-text">Diego Romeres</div>
         <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
     </div>
     <div class="card">
-        <a href="https://sites.google.com/view/marinayaoyama/research" target="_blank">
-            <img src="./assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
-            <div class="card-text">Marina Y. Aoyama</div>
+        <a href="https://sites.google.com/view/marinayaoyama/research">
+            <img src="/assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
         </a>
+        <div class="card-text">Marina Y. Aoyama</div>
         <div class="card-affil">University of Edinburgh</div>
     </div>
 </div>
@@ -246,29 +246,25 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
 
 ### <strong>Supported by</strong>                           
 
-<div class="gallery-container">
-    <div class="card">
-        <a href="TBD">
-            <img src="./assets/img/organizers/avatar.jpg" alt="Sponser1_Picture">
+<div class="shaped-gallery">
+    <div class="shaped-card">
+        <a href="https://www.airoa.org/" target="_blank">
+            <img src="/assets/img/airoa_logo.png" alt="AIROA_logo">
         </a>
-        <div class="card-text">Sponser1_Name</div>
     </div>
-    <div class="card">
-        <a href="TBD" >
-            <img src="./assets/img/organizers/avatar.jpg" alt="Sponser2_Picture">
+    <div class="shaped-card">
+        <a href="https://www.nedo.go.jp/english/index.html" target="_blank" >
+            <img src="/assets/img/NEDO_logo.png" alt="NEDO_logo">
         </a>
-        <div class="card-text">Sponser2_Name</div>
     </div>
-    <div class="card">
-        <a href="TBD">
-            <img src="./assets/img/organizers/avatar.jpg" alt="Sponcer3_Picture">
+    <div class="shaped-card">
+        <a href="https://au.mitsubishielectric.com/en/" target="_blank">
+            <img src="/assets/img/Mitsubishi_Electric_logo.png" alt="Mitsubishi_Electric_logo">
         </a>
-        <div class="card-text">Sponcer3_Name</div>
     </div>
-    <div class="card">
-        <a href="TBD">
-            <img src="./assets/img/organizers/avatar.jpg" alt="Sponser4_Picture">
+    <div class="shaped-card">
+        <a href="TBD" target="_blank">
+            <img src="/assets/img/speakers/jane.png" alt="Sponser4_Picture">
         </a>
-        <div class="card-text">Sponser4_Name</div>
     </div>
 </div>

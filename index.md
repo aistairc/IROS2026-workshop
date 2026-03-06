@@ -198,42 +198,42 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
 
 <div class="gallery-container one-line-gallery">
     <div class="card">
-        <a href="https://staff.aist.go.jp/floris.erich/">
+        <a href="https://staff.aist.go.jp/floris.erich/" target="_blank">
             <img src="./assets/img/organizers/Floris_Erich.png" alt="Floris_Erich_Picture">
         </a>
         <div class="card-text">Floris Erich</div>
         <div class="card-affil">AIST</div>
     </div>
     <div class="card">
-        <a href="https://romanmykhailyshyn.github.io/">
+        <a href="https://romanmykhailyshyn.github.io/" target="_blank">
             <img src="./assets/img/organizers/Roman_Mykhailyshyn.png">
         </a>
         <div class="card-text">Roman Mykhailyshyn</div>
         <div class="card-affil">AIST<br>American University Kyiv</div>
     </div>
     <div class="card">
-        <a herf="https://keiohta.github.io/">
+        <a herf="https://keiohta.github.io/" target="_blank">
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
         </a>
         <div class="card-text">Kei Ota</div>
         <div class="card-affil">AI Robot Association<br>RIKEN</div>
     </div>
     <div class="card">
-        <a href="https://chzjuou.github.io/">
+        <a href="https://chzjuou.github.io/" target="_blank">
             <img src="./assets/img/organizers/Hao_Chen.png" alt="Hao_Chen_Picture">
         </a>
         <div class="card-text">Hao Chen</div>
         <div class="card-affil">University of Osaka</div>
     </div>
     <div class="card">
-        <a href="https://www.merl.com/people/romeres">
+        <a href="https://www.merl.com/people/romeres" target="_blank">
             <img src="./assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
         </a>
         <div class="card-text">Diego Romeres</div>
         <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
     </div>
     <div class="card">
-        <a href="https://sites.google.com/view/marinayaoyama/research">
+        <a href="https://sites.google.com/view/marinayaoyama/research" target="_blank">
             <img src="./assets/img/organizers/marina_y_aoyama_profile_photo.png" alt="Marina_Aoyama_Picture">
         </a>
         <div class="card-text">Marina Y. Aoyama</div>
@@ -262,9 +262,9 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
             <img src="./assets/img/Mitsubishi_Electric_logo.png" alt="Mitsubishi_Electric_logo">
         </a>
     </div>
-    <div class="shaped-card">
-        <a href="TBD" target="_blank">
+    <div class="shaped-card">TBD
+       <!-- <a href="TBD" target="_blank">
             <img src="./assets/img/speakers/jane.png" alt="Sponser4_Picture">
-        </a>
+        </a> -->
     </div>
 </div>

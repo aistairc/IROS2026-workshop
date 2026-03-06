@@ -153,7 +153,7 @@ Robot Learning is ready to leave the lab and go into industry as proven by the r
         <div class="info-icon">🏆</div>
         <div class="info-text">
             <div class="info">Awards</div>
-            <div class="sub">Best Paper($1000),<br>Best Student Paper($1000),<br>Best Poster Presentation($500)</div>
+            <div class="sub">Best Paper ($1000),<br>Best Student Paper ($1000),<br>Best Poster Presentation ($500)</div>
         </div>
     </div>
     <div class="info-card">

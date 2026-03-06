@@ -152,14 +152,15 @@
 
 .shaped-card{
   width: 100%;
+  margin-left: 10px;
   // /*aspect-ratio: 4 / 3; /* keeps square shape */
   // overflow: visible;
   // color:#666;
   // border: 1px solid;
-  aspect-ratio: 4 / 3;
+  //aspect-ratio: 4 / 3;
   display: flex;
   align-items: center;
-  justify-content: normal;
+  justify-content: center;
   overflow: hidden;
   border-radius: 8px;
 }
@@ -170,8 +171,8 @@
 }
 
 .shaped-card img{
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   object-fit: fill;
   display: block;
 }

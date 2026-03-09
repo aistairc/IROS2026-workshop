@@ -266,3 +266,5 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
         </a> -->
     </div>
 </div>
+
+<a href="#top" class="back-to-top">Back to Top</a>

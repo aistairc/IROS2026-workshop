@@ -109,7 +109,7 @@ Topics of Interest include (but are not limited to):
             <img src="./assets/img/speakers/Maximo_Roa.png" alt="Maximo_Roa_Picture">
             <div class="card-text">Máximo A. Roa</div>
         </a>
-        <div class="card-affil">German Aerospace Center</div>
+        <div class="card-affil">German Aerospace Center(DLR)</div>
     </div>
     <div class="card">
         <a href="https://users.wpi.edu/~jxiao2/" target="_blank">

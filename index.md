@@ -210,7 +210,7 @@ We invite submissions of extended abstracts up to 2 pages (excluding references)
         <div class="card-affil">AIST<br>American University Kyiv</div>
     </div>
     <div class="card">
-        <a herf="https://keiohta.github.io/" target="_blank">
+        <a href="https://keiohta.github.io/" target="_blank">
             <img src="./assets/img/organizers/Kei_Ota_profile_photo.png">
             <div class="card-text">Kei Ota</div>
         </a>

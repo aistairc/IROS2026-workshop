@@ -109,14 +109,14 @@ Topics of Interest include (but are not limited to):
             <img src="./assets/img/speakers/Maximo_Roa.png" alt="Maximo_Roa_Picture">
             <div class="card-text">Máximo A. Roa</div>
         </a>
-        <div class="card-affil">German Aerospace Center(DLR)</div>
+        <div class="card-affil">German Aerospace Center (DLR)</div>
     </div>
     <div class="card">
         <a href="https://users.wpi.edu/~jxiao2/" target="_blank">
             <img src="./assets/img/speakers/JingXiao.png" alt="Jing_Xiao_Picture">
             <div class="card-text">Jing Xiao</div>
         </a>
-        <div class="card-affil">Worcester Polytechnic Institute</div>
+        <div class="card-affil">Worcester Polytechnic Institute (WPI)</div>
     </div>
     <div class="card">
         <a href="TBD" target="_blank">
@@ -144,7 +144,7 @@ Topics of Interest include (but are not limited to):
         <div class="info-icon">🖥️</div>
         <div class="info-text">
             <div class="info">Format</div>
-            <div class="sub">Hybrid: in-person + livestream; talks, spotlights, posters, panel</div>
+            <div class="sub">In-person: talks, posters, panel</div>
         </div>
     </div>
     <div class="info-card">
@@ -168,27 +168,30 @@ Topics of Interest include (but are not limited to):
             <div class="sub">TBD</div>
         </div>
     </div>
-    <div class="info-card">
-        <div class="info-icon">📧</div>
-        <div class="info-text">
-            <div class="info">Contact</div>
-            <div class="sub">TBD</div>
-        </div>
-    </div>
-    <div class="info-card">
+    <a href="https://aistairc.github.io/IROS2026-workshop/contactus/" target="_blank">
+      <div class="info-card">
+          <div class="info-icon">📧</div>
+          <div class="info-text">
+           <div class="info">Contact</div>
+          <div class="sub">TBD</div>
+          </div>
+      </div>
+    </a>
+    <a href="TBD" target="_blank">
+      <div class="info-card">
         <div class="info-icon">🌐</div>
         <div class="info-text">
-            <div class="info">Website</div>
+            <div class="info"> Submission Website</div>
             <div class="sub">TBD</div>
         </div>
-    </div>
-
+      </div>
+     </a>
 </div>
 
 <p class="spacing-style"></p>
 
 ### Submission guidelines                   
-We invite submissions of extended abstracts up to 2 pages (excluding references).  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
+Submissions should be 2-4 pages (not including references), following the IROS format.  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
 
 <p class="spacing-style"></p>
 

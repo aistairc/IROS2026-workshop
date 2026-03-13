@@ -7,7 +7,7 @@ sequence_id: 0
 speaker: Comments
 
 # Title of the event
-title: Talk
+title: Event
 
 # Time of the event
 time: Time

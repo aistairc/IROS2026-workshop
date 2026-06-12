@@ -120,8 +120,8 @@ Topics of Interest include (but are not limited to):
     </div>
     <div class="card">
         <a href="TBD" target="_blank">
-            <img src="./assets/img/speakers/avatar.jpg" alt="Speaker_10_Picture">
-            <div class="card-text">Speaker 10</div>
+            <img src="./assets/img/speakers/Kris_Hauser.jpg" alt="Kris_Hauser_Picture">
+            <div class="card-text">Kris Hauser</div>
         </a>
         <div class="card-affil">TBD</div>
     </div>

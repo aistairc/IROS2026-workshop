@@ -158,14 +158,14 @@ Topics of Interest include (but are not limited to):
         <div class="info-icon">📅</div>
         <div class="info-text">
             <div class="info">Call for Papers</div>
-            <div class="sub">TBD</div>
+            <div class="sub">2026/06/08</div>
         </div>
     </div>
     <div class="info-card">
         <div class="info-icon">⏳</div>
         <div class="info-text">
             <div class="info">Submission Deadline</div>
-            <div class="sub">TBD</div>
+            <div class="sub">2026/08/15</div>
         </div>
     </div>
     <a href="https://aistairc.github.io/IROS2026-workshop/contactus/" target="_blank">
@@ -177,12 +177,12 @@ Topics of Interest include (but are not limited to):
           </div>
       </div>
     </a>
-    <a href="TBD" target="_blank">
+    <a href="https://openreview.net/group?id=IEEE.org/IROS/2026/Workshop/IARL" target="_blank">
       <div class="info-card">
         <div class="info-icon">🌐</div>
         <div class="info-text">
             <div class="info"> Submission Website</div>
-            <div class="sub">TBD</div>
+            <div class="sub">IEEE IROS 2026 Workshop IARL</div>
         </div>
       </div>
      </a>
@@ -231,7 +231,7 @@ Submissions should be 2-4 pages (not including references), following the IROS f
             <img src="./assets/img/organizers/Diego_Romeres_profile_photo.png" alt="Diego_Romeres_Picture">
             <div class="card-text">Diego Romeres</div>
         </a>
-        <div class="card-affil">Mitsubishi Electric Research Laboratories</div>
+        <div class="card-affil">Amazon Industrial Robotics Group</div>
     </div>
     <div class="card">
         <a href="https://sites.google.com/view/marinayaoyama/research" target="_blank">
@@ -263,10 +263,10 @@ Submissions should be 2-4 pages (not including references), following the IROS f
             <img src="./assets/img/Mitsubishi_Electric_logo.png" alt="Mitsubishi_Electric_logo">
         </a>
     </div>
-    <div class="shaped-card">TBD
-       <!-- <a href="TBD" target="_blank">
-            <img src="./assets/img/speakers/jane.png" alt="Sponser4_Picture">
-        </a> -->
+    <div class="shaped-card">
+        <a href="https://www.jst.go.jp/" target="_blank">
+            <img src="./assets/img/jst_logo.png" alt="JST_logo">
+        </a>
     </div>
 </div>
 

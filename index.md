@@ -173,7 +173,7 @@ Topics of Interest include (but are not limited to):
           <div class="info-icon">📧</div>
           <div class="info-text">
            <div class="info">Contact</div>
-          <div class="sub">TBD</div>
+          <div class="sub">iros2026iarl@gmail.com</div>
           </div>
       </div>
     </a>

@@ -119,11 +119,11 @@ Topics of Interest include (but are not limited to):
         <div class="card-affil">Worcester Polytechnic Institute (WPI)</div>
     </div>
     <div class="card">
-        <a href="TBD" target="_blank">
+        <a href="https://siebelschool.illinois.edu/about/people/all-faculty/kkhauser" target="_blank">
             <img src="./assets/img/speakers/Kris_Hauser.jpg" alt="Kris_Hauser_Picture">
             <div class="card-text">Kris Hauser</div>
         </a>
-        <div class="card-affil">TBD</div>
+        <div class="card-affil">University of Illinois at Urbana-Champaign<br>Samsung Research America</div>
     </div>
 </div>
 
@@ -259,7 +259,7 @@ Submissions should be 2-4 pages (not including references), following the IROS f
         </a>
     </div>
     <div class="shaped-card">
-        <a href="https://au.mitsubishielectric.com/en/" target="_blank">
+        <a href="https://www.mitsubishielectric.com/en/" target="_blank">
             <img src="./assets/img/Mitsubishi_Electric_logo.png" alt="Mitsubishi_Electric_logo">
         </a>
     </div>

@@ -264,7 +264,7 @@ Submissions should be 2-4 pages (not including references), following the IROS f
         </a>
     </div>
     <div class="shaped-card">
-        <a href="https://www.jst.go.jp/" target="_blank">
+        <a href="https://www.jst.go.jp/EN/" target="_blank">
             <img src="./assets/img/jst_logo.png" alt="JST_logo">
         </a>
     </div>

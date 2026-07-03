@@ -186,6 +186,13 @@ Topics of Interest include (but are not limited to):
         </div>
       </div>
      </a>
+     <div class="info-card">
+        <div class="info-icon">📅</div>
+        <div class="info-text">
+            <div class="info">WorkShop Day</div>
+            <div class="sub">2026/09/27</div>
+        </div>
+     </div>
 </div>
 
 <p class="spacing-style"></p>
@@ -266,6 +273,11 @@ Submissions should be 2-4 pages (not including references), following the IROS f
     <div class="shaped-card">
         <a href="https://www.jst.go.jp/EN/" target="_blank">
             <img src="./assets/img/jst_logo.png" alt="JST_logo">
+        </a>
+    </div>
+    <div class="shaped-card">
+        <a href="https://www.aist.go.jp/index_en.html" target="_blank">
+            <img src="./assets/img/aist_logo.png" alt="AIST_logo">
         </a>
     </div>
 </div>

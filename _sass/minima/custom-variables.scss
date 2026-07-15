@@ -356,3 +356,36 @@ padding: 15px 12px;
 /* Award Box Elements */
 .award-icon { color: var(--orange-accent); margin-right: 6px; }
 .price-val { text-align: right; font-size: 1.2rem; font-weight: 800; color: var(--orange-dark); }
+
+/* Center button horizontally on the page */
+.button-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px; 
+}
+
+/* Button styling */
+.cfp-btn {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #d97706;
+    color: #000; 
+    font-weight: bold;
+    font-size: 16px;
+    padding: 16px 36px;
+    border-radius: 100px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.cfp-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.cfp-btn:visited, 
+.cfp-btn:active, 
+.cfp-btn:focus {
+    color: #000 !important;
+}

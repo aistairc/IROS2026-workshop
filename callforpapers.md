@@ -105,7 +105,7 @@ permalink: /callforpapers
             </div>
             <div class="card-body portal-body">
                 <strong class="portal-label">OpenReview:</strong> 
-                <a href="https://openreview.net" target="_blank" class="portal-link">IARL2026 Paper Submissions</a>
+                <a href="https://openreview.net/group?id=IEEE.org/IROS/2026/Workshop/IARL#tab-recent-activity" target="_blank" class="portal-link">IARL2026 Paper Submissions</a>
             </div>
         </div>
         <div class="card-box">

@@ -3,7 +3,12 @@ layout: page
 title: Call For Papers
 permalink: /callforpapers
 ---
-<!-- Topic of Interests Block -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IROS 2026 - Industrial Applications of Robot Learning</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
 <div class="card-box">
     <div class="card-header">
         TOPICS OF INTEREST
@@ -23,11 +28,8 @@ permalink: /callforpapers
         </ul>
     </div>
 </div>
-<!-- Two Column Content Grid -->
 <div class="columns-grid">
-    <!-- LEFT COLUMN -->
     <div class="column">
-        <!-- Submission Guidelines Block -->
         <div class="card-box">
             <div class="card-header">
                 SUBMISSION GUIDELINES
@@ -42,53 +44,79 @@ permalink: /callforpapers
             </div>
         </div>
     </div>
-    <!-- RIGHT COLUMN -->
     <div class="column">
         <div class="card-box">
             <div class="card-header">
                 IMPORTANT DATES
             </div>
-        <div class="card-body no-padding">
-            <table class="dates-table">
-                <tbody>
-                    <tr>
-                        <td>Submission Deadline</td>
-                        <td class="date-val">2026/08/15</td>
-                    </tr>
-                    <tr>
-                        <td>Notification of Acceptance</td>
-                        <td class="date-val">2026/09/13</td>
-                    </tr>
-                    <tr>
-                        <td>Camera-Ready Deadline</td>
-                        <td class="date-val">2026/09/20</td>
-                    </tr>
-                    <tr>
-                        <td>Workshop Date</td>
-                        <td class="date-val">2026/09/27</td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="card-body no-padding">
+                <table class="dates-table">
+                    <tbody>
+                        <tr>
+                            <td>Submission Deadline</td>
+                            <td class="date-val">2026/08/15</td>
+                        </tr>
+                        <tr>
+                            <td>Notification of Acceptance</td>
+                            <td class="date-val">2026/09/13</td>
+                        </tr>
+                        <tr>
+                            <td>Camera-Ready Deadline</td>
+                            <td class="date-val">2026/09/20</td>
+                        </tr>
+                        <tr>
+                            <td>Workshop Date</td>
+                            <td class="date-val">2026/09/27</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 </div>
-<!-- Submission Portal Block -->
-<div class="card-box">
-    <div class="card-header">
-        SUBMISSION PORTAL
+<div class="columns-grid">
+    <div class="column">
+        <div class="card-box">
+            <div class="card-header">AWARDS</div>
+            <div class="card-body no-padding">
+                <table class="dates-table">
+                    <tbody>
+                        <tr>
+                            <td>Best Paper</td>
+                            <td class="date-val">$1000</td>
+                        </tr>
+                        <tr>
+                            <td>Best Student Paper</td>
+                            <td class="date-val">$1000</td>
+                        </tr>
+                        <tr>
+                            <td>Best Poster Presentation</td>
+                            <td class="date-val">$500</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
-    <div class="card-body portal-body">
-        <strong class="portal-label">OpenReview:</strong> 
-        <a href="https://openreview.net/group?id=IEEE.org/IROS/2026/Workshop/IARL" target="_blank" class="portal-link">IARL2026 Paper Submissions</a>
+    <div class="column">
+        <div class="card-box">
+            <div class="card-header">
+                SUBMISSION PORTAL
+            </div>
+            <div class="card-body portal-body">
+                <strong class="portal-label">OpenReview:</strong> 
+                <a href="https://openreview.net" target="_blank" class="portal-link">IARL2026 Paper Submissions</a>
+            </div>
+        </div>
+        <div class="card-box">
+            <div class="card-header">
+                Call of Paper Poster
+            </div>
+            <div class="card-body portal-body">
+                <strong class="portal-label">Call Of Papers Poster</strong>
+                <a href="./assets/cfp_poster.pdf" target="_blank" rel="noopener noreferrer" class="portal-link">Click Here</a>
+            </div>
+        </div>
     </div>
 </div>
-<!-- Call Of Paper Poster Block -->
-<div class="card-box">
-    <div class="card-header">
-        Call For Papers
-    </div>
-    <div class="card-body portal-body">
-        <strong class="portal-label">Call For Papers</strong>
-        <a href="./assets/cfp_poster.pdf" target="_blank" rel="noopener noreferrer" class="portal-link">Click Here</a>
-    </div>
 </div>

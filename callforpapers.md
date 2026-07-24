@@ -119,4 +119,3 @@ permalink: /callforpapers
         </div>
     </div>
 </div>
-</div>

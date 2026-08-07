@@ -201,7 +201,7 @@ Topics of Interest include (but are not limited to):
 <p class="spacing-style"></p>
 
 ### Submission guidelines                   
-Submissions should be 2-4 pages (not including references), following the IROS format.  Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review). 
+Submissions should be 2-8 pages (including references), following the IROS format. Accepted papers will be presented at the workshop as posters. Research award candidates will give 8-minute talks. All submissions will undergo a single-blind peer review process (via open review).
 
 <p class="spacing-style"></p>
 
@@ -281,6 +281,11 @@ Submissions should be 2-4 pages (not including references), following the IROS f
     <div class="shaped-card">
         <a href="https://www.aist.go.jp/index_en.html" target="_blank">
             <img src="./assets/img/aist_logo.png" alt="AIST_logo">
+        </a>
+    </div>
+    <div class="shaped-card">
+        <a href="https://frontia-ai.go.jp/en/" target="_blank">
+            <img src="./assets/img/frontia_logo.png" alt="FRONTia_logo">
         </a>
     </div>
 </div>

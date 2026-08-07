@@ -36,7 +36,7 @@ permalink: /callforpapers
             </div>
             <div class="card-body">
                 <ul class="check-list">
-                    <li>Submissions should be 2-4 pages (not including references), following the IROS format.</li>
+                    <li>Submissions should be 2-8 pages (including references), following the IROS format.</li>
                     <li>All accepted papers will be presented as posters.</li>
                     <li>Selected research award candidates will give 8-minute talks.</li>
                     <li>Submissions will undergo a single-blind peer review process via OpenReview.</li>

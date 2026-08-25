@@ -28,7 +28,7 @@ layout: home
 
 <img src="./assets/img/banner.png" alt="Banner" class="center-logo"> 
 <div class="button-container">
-    <a href="https://aistairc.github.io/IROS2026-workshop/callforpapers" target="_blank" class="cfp-btn">We are currently calling for papers!</a>
+    < div class="cfp-btn">Submissions has been closed.</div>
 </div>
 
 ### <strong>About</strong>                            

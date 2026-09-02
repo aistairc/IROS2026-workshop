@@ -119,3 +119,29 @@ permalink: /callforpapers
         </div>
     </div>
 </div>
+<div class="card-box">
+    <div class="card-header">
+        Program Committee and Reviewers
+    </div>
+    <div class="card-body">
+        <ul class="orange-dots" style="columns: 2;">
+            <li>Abdullah Mustafa (AIST)</li>
+            <li>Diego Romeres (Amazon Industrial Robotics Group)</li>
+            <li>Floris Erich (AIST)</li>
+            <li>Hanbit Oh (AIST)</li>
+            <li>Hao Chen (University of Osaka)</li>
+            <li>Harindu Sarathchandra (Shibaura Institute of Technology)</li>
+            <li>Kei Ota (AIRoA/RIKEN)</li>
+            <li>Keisuke Shirai (AIST)</li>
+            <li>Koshi Makihara (AIST)</li>
+            <li>Marina Aoyama (University of Edinburgh)</li>
+            <li>Refaldi Putra (University of Tokyo)</li>
+            <li>Roman Mykhailyshyn (AIST/AUK)</li>
+            <li>Ryo Hanai (AIST)</li>
+            <li>Ryoichi Nakajo (AIST)</li>
+            <li>Tessa Pulli (TU Wien)</li>
+            <li>Tomohiro Motoda (AIST)</li>
+            <li>Vishal Chauhan (University of Tokyo)</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,305 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Schedule</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f8f8;
+        margin: 0;
+        padding: 30px;
+    }
+
+    .schedule-container {
+        max-width: 1100px;
+        margin: auto;
+    }
+
+    h1 {
+        text-align: center;
+        color: #000000;
+        margin-bottom: 25px;
+        font-size: 32px;
+    }
+
+    h2 {
+        text-align: center;
+        color: #000000;
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+
+    a {
+        color: #000000 !important;
+        text-decoration: none;
+    }
+     a:hover {
+        text-decoration: underline;
+    }
+
+   table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 18px;
+    background: white;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    }
+
+    /* Column widths */
+    th:nth-child(1),
+    td:nth-child(1) {
+        width: 5%;
+    }
+
+    th:nth-child(2),
+    td:nth-child(2) {
+        width: 20%;
+    }
+
+    th:nth-child(3),
+    td:nth-child(3) {
+        width: 25%;
+    }
+
+    th:nth-child(4),
+    td:nth-child(4) {
+        width: 55%;
+    }
+
+    /* Header */
+    thead th {
+        background-color: #000;
+        color: #fff;
+        padding: 16px;
+        text-align: left;
+        font-weight: 600;
+        border-right: 1px solid #e8e8e8;
+    }
+
+    /* Body Cells */
+    tbody td {
+        padding: 14px 16px;
+        color: #000;
+        border-right: 1px solid #e8e8e8;
+    }
+
+    /* Remove right border from last column */
+    thead th:last-child,
+    tbody td:last-child {
+        border-right: none;
+    }
+
+    /* Rounded top corners */
+    thead th:first-child {
+        border-top-left-radius: 18px;
+    }
+
+    thead th:last-child {
+        border-top-right-radius: 18px;
+    }
+
+    /* Alternating row colors */
+    tbody tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #fff5eb;
+    }
+
+    /* Time Column */
+    td.time {
+        background-color: #ffffff !important;
+        color: #f5b301;
+        font-weight: 700;
+        text-align: center;
+        white-space: nowrap;
+    }
+
+    /* Hover */
+    tbody tr:hover {
+        background-color: #fff0dc;
+        transition: 0.2s ease;
+    }
+    </style>
+</head>
+
+<body>
+
+<div class="schedule-container">
+
+    <h1>Schedule</h1>
+    <h2><strong><a href="https://2026.ieee-iros.org/program/venue_map/?room=407#level-4" target="_blank">The workshop will take place on the 27th of September.Click here for venue information.
+    </strong></a></h2>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Speaker</th>
+                <th>Title</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td class="time">08:30 AM</td>
+                <td>Opening Remarks</td>
+                <td class="speaker">Workshop Organizers</td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="time">08:40 AM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Yukiyasu Domae</td>
+                <td>Compact, Dexterous, Deployable: Toward Industrial-Grade Robot Foundation Models</td>
+            </tr>
+
+            <tr>
+                <td class="time">09:00 AM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Tetsuya Ogata</td>
+                <td>Building an Ecosystem for Industrial AI Robotics: Data Sharing and Foundation Models</td>
+            </tr>
+
+            <tr>
+                <td class="time">09:20 AM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Kris Hauser</td>
+                <td>TBD</td>
+            </tr>
+
+            <tr>
+                <td class="time">09:40 AM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Jing Xiao</td>
+                <td>Learning in Perception and Action Loop for Efficient Manipulation with Uncertainty</td>
+            </tr>
+
+            <tr>
+                <td class="time">10:00 AM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Máximo A. Roa</td>
+                <td>Planning and control of compliant manipulation for soft materials</td>
+            </tr>
+
+            <tr>
+                <td class="time">10:20 AM</td>
+                <td>Coffee Break</td>
+                <td class="speaker">All Participants</td>
+                <td>Poster discussion and networking</td>
+            </tr>
+
+            <tr>
+                <td class="time">11:15 AM</td>
+                <td>Contributed Talk</td>
+                <td class="speaker">Submitted paper speaker 1</td>
+                <td>TBD</td>
+            </tr>
+
+            <tr>
+                <td class="time">11:25 AM</td>
+                <td>Contributed Talk</td>
+                <td class="speaker">Submitted paper speaker 2</td>
+                <td>TBD</td>
+            </tr>
+
+            <tr>
+                <td class="time">11:35 AM</td>
+                <td>Panel Discussion</td>
+                <td class="speaker">Yukiyasu Domae, Tetsuya Ogata, Kris Hauser, Jing Xiao, Máximo A. Roa</td>
+                <td></td>
+            </tr>   
+
+            <tr>
+                <td class="time">12:30 PM</td>
+                <td>Lunch</td>
+                <td class="speaker">All Participants</td>
+                <td></td>
+            </tr>   
+
+            <tr>
+                <td class="time">13:30 PM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Kensuke Harada</td>
+                <td>Generation of Long-horizon Industrial Tasks</td>
+            </tr>
+
+            <tr>
+                <td class="time">13:50 PM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Robert Katzschmann</td>
+                <td>From Learning in the Lab to Deployment on the Factory Floor: Robot Learning for Real-World Dexterity</td>
+            </tr>
+
+            <tr>
+                <td class="time">14:10 PM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Rika Antonova</td>
+                <td>Co-design for Adaptive Robot Manipulation</td>
+            </tr>   
+
+            <tr>
+                <td class="time">14:30 PM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Roberto Martin-Martin</td>
+                <td>Successes of Reinforcement Learning in Real World Robotics</td>
+            </tr>
+
+            <tr>
+                <td class="time">14:50 PM</td>
+                <td>Invited Talk</td>
+                <td class="speaker">Jose Barreiros</td>
+                <td>Generalization of Large Behavior Models for Dexterous Manipulation</td>
+            </tr>
+
+            <tr>
+                <td class="time">15:10 PM</td>
+                <td>Coffee Break</td>
+                <td class="speaker">All Participants</td>
+                <td>Poster discussion and networking</td>
+            </tr>
+
+            <tr>
+                <td class="time">16:15 PM</td>
+                <td>Contributed Talk</td>
+                <td class="speaker">Submitted paper speaker 3</td>
+                <td>TBD</td>
+            </tr>
+
+            <tr>
+                <td class="time">16:25 PM</td>
+                <td>Contributed Talk</td>
+                <td class="speaker">Submitted paper speaker 4</td>
+                <td>TBD</td>
+            </tr>
+
+            <tr>
+                <td class="time">16:35 PM</td>
+                <td>Panel Discussion</td>
+                <td class="speaker">Kensuke Harada, Robert Katzschmann, Rika Antonova, Roberto Martin-Martin, Jose Barreiros</td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="time">17:15 PM</td>
+                <td>Awards and Closing</td>
+                <td class="speaker">Workshop Organizers</td>
+                <td></td>
+            </tr>
+        </tbody>
+
+    </table>
+
+</div>
+
+</body>
+</html>

@@ -28,7 +28,7 @@ layout: home
 
 <img src="./assets/img/banner.png" alt="Banner" class="center-logo"> 
 <div class="button-container">
-    <a href="https://2026.ieee-iros.org/program/venue_map/?room=407#level-4" target="_blank" class="cfp-btn">The workshop will take place on the 27th of September.Click here for venue information. <br><p style="text-align:center">We are looking forward to seeing you in Pittsburgh!</p></a>
+    <a href="https://2026.ieee-iros.org/program/venue_map/?room=407#level-4" target="_blank" class="cfp-btn">The 1st International Workshop on Industrial Applications of Robot Learning will be held at IROS 2026 on Sunday, September 27 starting from 8:30 AM in Room 407. We are looking forward to seeing you in Pittsburgh!</a>
 </div>
 
 ### <strong>About</strong>                            

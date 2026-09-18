@@ -85,7 +85,7 @@ Topics of Interest include (but are not limited to):
     <div class="card">
         <a href="https://srl.ethz.ch/the-group/robert-katzschmann.html" target="_blank">
             <img src="./assets/img/speakers/Robert_Katzschmann.png" alt="Robert_Katzschmann_Picture">
-            <div class="card-text">Robert Katzchmann</div>
+            <div class="card-text">Robert Katzschmann</div>
         </a>
         <div class="card-affil">ETH Zurich<br>Mimic Robotics</div>
     </div>

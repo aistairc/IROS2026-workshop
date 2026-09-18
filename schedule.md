@@ -121,7 +121,7 @@ permalink: /schedule/
                     <td>Building an Ecosystem for Industrial AI Robotics: Data Sharing and Foundation Models</td>
                 </tr>
                 <tr>
-                    <td class="time">14:50 PM</td>
+                    <td class="time">09:20 AM</td>
                     <td>Invited Talk</td>
                     <td class="speaker">Jose Barreiros</td>
                     <td>Generalization of Large Behavior Models for Dexterous Manipulation</td>
@@ -193,7 +193,7 @@ permalink: /schedule/
                     <td>Successes of Reinforcement Learning in Real World Robotics</td>
                 </tr>
                 <tr>
-                    <td class="time">09:20 AM</td>
+                    <td class="time">14:50 PM</td>
                     <td>Invited Talk</td>
                     <td class="speaker">Kris Hauser</td>
                     <td>TBD</td>

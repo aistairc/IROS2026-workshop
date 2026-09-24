@@ -159,8 +159,8 @@ permalink: /schedule/
                 <tr>
                     <td class="time">11:35 AM</td>
                     <td>Panel Discussion</td>
-                    <td class="speaker">Yukiyasu Domae, Tetsuya Ogata, Kris Hauser, Jing Xiao, Máximo A. Roa</td>
-                    <td></td>
+                    <td class="speaker">Yukiyasu Domae, Tetsuya Ogata, Nima Fazeli, Jing Xiao</td>
+                    <td>Moderator: Floris Erich</td>
                 </tr>   
                 <tr>
                     <td class="time">12:30 PM</td>
@@ -172,13 +172,13 @@ permalink: /schedule/
                     <td class="time">13:30 PM</td>
                     <td>Invited Talk</td>
                     <td class="speaker">Kensuke Harada</td>
-                    <td>Generation of Long-horizon Industrial Tasks</td>
+                    <td>Learning-based Robotic System Integration</td>
                 </tr>
                 <tr>
                     <td class="time">13:50 PM</td>
                     <td>Invited Talk</td>
-                    <td class="speaker">Robert Katzschmann</td>
-                    <td>From Learning in the Lab to Deployment on the Factory Floor: Robot Learning for Real-World Dexterity</td>
+                    <td class="speaker">Roberto Martin-Martin</td>
+                    <td>Successes of Reinforcement Learning in Real World Robotics</td>
                 </tr>
                 <tr>
                     <td class="time">14:10 PM</td>
@@ -189,14 +189,14 @@ permalink: /schedule/
                 <tr>
                     <td class="time">14:30 PM</td>
                     <td>Invited Talk</td>
-                    <td class="speaker">Roberto Martin-Martin</td>
-                    <td>Successes of Reinforcement Learning in Real World Robotics</td>
+                    <td class="speaker">Robert Katzschmann</td>  
+                    <td>From Learning in the Lab to Deployment on the Factory Floor: Robot Learning for Real-World Dexterity</td>
                 </tr>
                 <tr>
                     <td class="time">14:50 PM</td>
                     <td>Invited Talk</td>
                     <td class="speaker">Kris Hauser</td>
-                    <td>TBD</td>
+                    <td>Why is robot learning so hard to deploy in industry?</td>
                 </tr>
                 <tr>
                     <td class="time">15:10 PM</td>
@@ -220,7 +220,7 @@ permalink: /schedule/
                     <td class="time">16:35 PM</td>
                     <td>Panel Discussion</td>
                     <td class="speaker">Kensuke Harada, Robert Katzschmann, Rika Antonova, Roberto Martin-Martin, Jose Barreiros</td>
-                    <td></td>
+                    <td>Moderator: Diego Romeres</td>
                 </tr>
                 <tr>
                     <td class="time">17:15 PM</td>

@@ -147,14 +147,14 @@ permalink: /schedule/
                 <tr>
                     <td class="time">11:15 AM</td>
                     <td>Contributed Talk</td>
-                    <td class="speaker">Submitted paper speaker 1</td>
-                    <td>TBD</td>
+                    <td class="speaker">Chanelo et al.</td>
+                    <td>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</td>
                 </tr>
                 <tr>
                     <td class="time">11:25 AM</td>
                     <td>Contributed Talk</td>
-                    <td class="speaker">Submitted paper speaker 2</td>
-                    <td>TBD</td>
+                    <td class="speaker">Krohn et al.</td>
+                    <td>Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation</td>
                 </tr>
                 <tr>
                     <td class="time">11:35 AM</td>
@@ -207,14 +207,14 @@ permalink: /schedule/
                 <tr>
                     <td class="time">16:15 PM</td>
                     <td>Contributed Talk</td>
-                    <td class="speaker">Submitted paper speaker 3</td>
-                    <td>TBD</td>
+                    <td class="speaker">Krohn et al.</td>
+                    <td>Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning</td>
                 </tr>
                 <tr>
                     <td class="time">16:25 PM</td>
                     <td>Contributed Talk</td>
-                    <td class="speaker">Submitted paper speaker 4</td>
-                    <td>TBD</td>
+                    <td class="speaker">Shangguan et al.</td>
+                    <td>PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance</td>
                 </tr>
                 <tr>
                     <td class="time">16:35 PM</td>

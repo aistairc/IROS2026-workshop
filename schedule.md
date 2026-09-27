@@ -145,6 +145,12 @@ permalink: /schedule/
                     <td>Poster discussion and networking</td>
                 </tr>
                 <tr>
+                    <td class="time">11:15 AM</td>
+                    <td>Contributed Talk</td>
+                    <td class="speaker">Chanelo et al.</td>
+                    <td>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</td>
+                </tr>
+                <tr>
                     <td class="time">11:25 AM</td>
                     <td>Contributed Talk</td>
                     <td class="speaker">Krohn et al.</td>
@@ -193,13 +199,7 @@ permalink: /schedule/
                     <td>Why is robot learning so hard to deploy in industry?</td>
                 </tr>
                 <tr>
-                    <td class="time">15:05 AM</td>
-                    <td>Contributed Talk</td>
-                    <td class="speaker">Chanelo et al.</td>
-                    <td>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</td>
-                </tr>
-                <tr>
-                    <td class="time">15:15 PM</td>
+                    <td class="time">15:10 PM</td>
                     <td>Coffee Break</td>
                     <td class="speaker">All Participants</td>
                     <td>Poster discussion and networking</td>

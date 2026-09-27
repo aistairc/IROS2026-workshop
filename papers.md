@@ -122,7 +122,7 @@ permalink: /papers/
                 <tr>
                     <td>Juan Rojas, Gabriel Everett, Brice Gunter, Blake Hull, Cleiver Ruiz-Martinez</td>
                     <td>SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric–Exocentric Visual Perception</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/06.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Jia Qu, Shun Otsubo, Shotaro Miwa</td>
@@ -177,7 +177,7 @@ permalink: /papers/
                 <tr>
                     <td>Rivu Chakraborty, Anindya Jana, Snehasis Banerjee, Arup Kumar Sadhu, Ranjan Dasgupta</td>
                     <td>DIRECT: A Deterministic Lightweight Safe Vision- Control Framework for Flexible Cable Insertion</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/20.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Ricardo V. Godoy, Enzo Ferreira de Souza, Rudy De-Xin de Lange, Juliano Decico Negri, Jo&atilde;o Aires Marsicano, Victor I. van Halst, Aravind Elanjimattathil Vijayan, Gianluca Capezzuto, Matheus P. Angarola, Felipe Andrade G. Tommaselli, Rafael Romaquela Baptista, Meiko Adriana van Berge, Gustavo J. G. Lahr, Lucas Ferrari Gerez, Marcelo Becker</td>

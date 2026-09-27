@@ -289,6 +289,11 @@ Submissions should be 2-8 pages (including references), following the IROS forma
             <img src="./assets/img/frontia_logo.png" alt="FRONTia_logo">
         </a>
     </div>
+    <div class="shaped-card">
+        <a href="https://mobile-manipulation.net/" target="_blank">
+            <img src="./assets/img/ieee_logo.png" alt="IEEE_logo">
+        </a>
+    </div>
 </div>
 
 <a href="#top" class="back-to-top">Back to Top</a>

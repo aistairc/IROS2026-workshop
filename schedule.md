@@ -112,7 +112,7 @@ permalink: /schedule/
                     <td class="time">08:40 AM</td>
                     <td>Invited Talk</td>
                     <td class="speaker">Yukiyasu Domae</td>
-                    <td>Compact, Dexterous, Deployable: Toward Industrial-Grade Robot Foundation Models</td>
+                    <td>Toward Industrial-Grade Robot Foundation Models: Bridging Data, Embodiment and Deployment Gaps</td>
                 </tr>
                 <tr>
                     <td class="time">09:00 AM</td>
@@ -143,12 +143,6 @@ permalink: /schedule/
                     <td>Coffee Break</td>
                     <td class="speaker">All Participants</td>
                     <td>Poster discussion and networking</td>
-                </tr>
-                <tr>
-                    <td class="time">11:15 AM</td>
-                    <td>Contributed Talk</td>
-                    <td class="speaker">Chanelo et al.</td>
-                    <td>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</td>
                 </tr>
                 <tr>
                     <td class="time">11:25 AM</td>
@@ -199,7 +193,13 @@ permalink: /schedule/
                     <td>Why is robot learning so hard to deploy in industry?</td>
                 </tr>
                 <tr>
-                    <td class="time">15:10 PM</td>
+                    <td class="time">15:05 AM</td>
+                    <td>Contributed Talk</td>
+                    <td class="speaker">Chanelo et al.</td>
+                    <td>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</td>
+                </tr>
+                <tr>
+                    <td class="time">15:15 PM</td>
                     <td>Coffee Break</td>
                     <td class="speaker">All Participants</td>
                     <td>Poster discussion and networking</td>

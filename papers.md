@@ -167,7 +167,7 @@ permalink: /papers/
                 <tr>
                     <td>Kohei Iwano, Yuki Wakayama, Jin Ito, Jumpei Arima, Taro Takahashi, Yoshihiro Okumatsu</td>
                     <td>ELEY: A Hardware-Readiness Perspective on Industrial Robot Learning</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/18.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Prajwal Vijay, Yi Ru Wang</td>
@@ -182,7 +182,7 @@ permalink: /papers/
                 <tr>
                     <td>Ricardo V. Godoy, Enzo Ferreira de Souza, Rudy De-Xin de Lange, Juliano Decico Negri, Jo&atilde;o Aires Marsicano, Victor I. van Halst, Aravind Elanjimattathil Vijayan, Gianluca Capezzuto, Matheus P. Angarola, Felipe Andrade G. Tommaselli, Rafael Romaquela Baptista, Meiko Adriana van Berge, Gustavo J. G. Lahr, Lucas Ferrari Gerez, Marcelo Becker</td>
                     <td>HiveBoard: An Open, Modular, 3D-Printed Benchmark of Industrial Mechanisms for Robotic and Prosthetic Manipulation</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/21.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Chak Lam Shek, Ye Wang, Jing Liu, Kei Suzuki, Pratap Tokekar, Toshiaki Koike-Akino</td>
@@ -222,17 +222,17 @@ permalink: /papers/
                 <tr>
                     <td>Rickmer Krohn, Vignesh Prasad, Gabriele Tiboni, Georgia Chalvatzaki</td>
                     <td>Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/29.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Rickmer Krohn, Erik Helmut, Niklas Funk, Jan Peters, Vignesh Prasad, Georgia Chalvatzaki</td>
                     <td>Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/31.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Malavika Mohan, Suresh Kumaar Jayaraman</td>
                     <td>Standards-Grounded LLMs for Safe Human-Robot Collaboration in Manufacturing</td>
-                    <td></td>
+                    <td><a href="../assets/pdf/papers/32.pdf">PDF</a></td>
                 </tr>
                 <tr>
                     <td>Jiwook Sung</td>

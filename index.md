@@ -290,8 +290,13 @@ Submissions should be 2-8 pages (including references), following the IROS forma
         </a>
     </div>
     <div class="shaped-card">
-        <a href="https://mobile-manipulation.net/" target="_blank">
+        <a href="https://www.ieee-ras.org/robot-learning/" target="_blank">
             <img src="./assets/img/ieee_logo.png" alt="IEEE_logo">
+        </a>
+    </div>
+    <div class="shaped-card">
+        <a href="https://mobile-manipulation.net/" target="_blank">
+            <img src="./assets/img/ieee_moma_logo.png" alt="IEEE_MoMa_logo">
         </a>
     </div>
 </div>

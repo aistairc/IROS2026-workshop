@@ -6,8 +6,8 @@
   url: /#important-information
 - title: Schedule
   url: /schedule.html
-- title: Call for Papers
-  url: /#call-for-papers
+# - title: Call for Papers
+#   url: /#call-for-papers
 - title: Organizers
   url: /#organizers
 - title: Supported by

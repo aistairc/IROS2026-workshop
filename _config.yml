@@ -39,7 +39,7 @@ plugins:
 header_pages:
 - speakers.md
 - schedule.md
-- callforpapers.md
+# - callforpapers.md
 - papers.md
 - organizers.md
 - contactus.md

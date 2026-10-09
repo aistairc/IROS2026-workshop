@@ -391,3 +391,67 @@ padding: 15px 12px;
 .cfp-btn:focus {
     color: #000 !important;
 }
+.awards-section {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+.award-block {
+    background: #fff;
+    border-radius: 16px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    transition: all 0.25s ease;
+}
+
+.award-block:hover {
+    transform: translateY(-4px);
+}
+
+.award-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.award-icon {
+    font-size: 10px;
+}
+
+.award-header h3 {
+    margin: 0;
+    font-size: 20px;
+}
+.best-paper {
+    border-left: 8px solid #d97706;
+}
+.student-paper {
+    border-left: 8px solid #d97706;
+}
+.poster {
+    border-left: 8px solid #d97706;
+}
+.award-block h4 {
+    font-size: 20px;
+    font-weight:600;
+    margin-bottom: 12px;
+}
+.authors {
+    font-style:italic;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.btn {
+    display: inline-block;
+    background: #2563eb;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.btn:hover {
+    background: #1d4ed8;
+}

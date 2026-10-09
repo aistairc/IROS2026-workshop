@@ -255,6 +255,47 @@ Submissions should be 2-8 pages (including references), following the IROS forma
 
 <p class="spacing_style"></p>
 
+### <strong>Award Winners</strong> {#awards}
+
+<section class="awards-section">
+    <div class="award-block best-paper">
+        <div class="award-header">
+            <div class="info-icon">🏆</div>
+            <h3>Best Paper Award</h3>
+        </div>
+        <h4>PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance</h4>
+        <p class="authors">Zeyu Shangguan, Rajas Chitale, Rutvik Patel, Satyandra Gupta, Daniel Seita</p>
+        <a href="../assets/pdf/papers/09.pdf">PDF</a>
+    </div>
+    <div class="award-block student-paper">
+        <div class="award-header">
+            <div class="info-icon">🏆</div>
+            <h3>Best Student Paper Award</h3>
+        </div>
+        <h4>Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning</h4>
+        <p class="authors">Rickmer Krohn, Vignesh Prasad, Gabriele Tiboni, Georgia Chalvatzaki</p>
+        <a href="https://ieeexplore.ieee.org/document/11474883">IEEE Xplore</a>
+    </div>
+    <div class="award-block poster">
+        <div class="award-header">
+            <div class="info-icon">🏆</div>
+            <h3>Best Poster Award</h3>
+        </div>
+        <h4>HiveBoard: An Open, Modular, 3D-Printed Benchmark of Industrial Mechanisms for Robotic and Prosthetic Manipulation</h4>
+        <p class="authors">Ricardo V. Godoy, Enzo F. de Souza, Matheus P. Angarola, Rudy De-Xin de Lange, Juliano Negri, Joao Aires Marsicano, Joao H. Alessio, Victor I. van Halst, Aravind Elanjimattathil Vijayan, Gianluca Capezzuto, Felipe Tommaselli, Giuseppe Milazzo, Amy M. Ramırez Sanchez, Francisco Affonso, Rafael R. Baptista, Meiko A. van Berge, Girish Chowdhary, Ranulfo Bezerra, Gustavo J. G. Lahr, Lucas Ferrari Gerez, Antonio Bicchi, Marcelo Becker</p>
+        <a href="../assets/pdf/papers/21.pdf">PDF</a>
+    </div>
+    <div class="award-block poster">
+        <div class="award-header">
+            <div class="info-icon">🏆</div>
+            <h3>Best Poster Award</h3>
+        </div>
+        <h4>MultiGraspNet: A Multi-task 3D Vision Model for Multi-gripper Robotic Grasping</h4>
+        <p class="authors">Stephany Ortuno Chanelo, Paolo Rabino, Enrico Civitelli, Tatiana Tommasi, Raffaello Camoriano</p>
+        <a href="https://arxiv.org/abs/2602.06504">arXiv</a>
+    </div>
+</section>
+
 
 ### <strong>Supported by</strong>                           
 

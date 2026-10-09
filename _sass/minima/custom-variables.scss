@@ -171,6 +171,19 @@
   object-fit: fill;
   display: block;
 }
+.shaped-card:nth-child(8) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0; 
+}
+
+.shaped-card:nth-child(8) img {
+  width: 65%;
+  height: auto;
+  object-fit: contain;
+  transform: translateX(65px);
+}
 
 /* Responsive */
 @media (max-width: 900px){
@@ -218,8 +231,6 @@ display: flex;
 justify-content: center;
 padding: 20px 0;
 }
-
-/* Two-Column Grid Setup */
 .columns-grid {
 display: grid;
 grid-template-columns: 1fr 1fr;
@@ -233,7 +244,6 @@ flex-direction: column;
 gap: 15px;
 }
 
-/* Stylized Boxes / Cards */
 .card-box {
 border: 1px solid #000000;
 border-radius: 8px;
@@ -266,8 +276,6 @@ color: var(--text-gray);
 .card-body.no-padding {
 padding: 0;
 }
-
-/* List Formatting */
 .orange-dots {
 list-style: none;
 }
@@ -296,7 +304,6 @@ padding-bottom: 4px;
 .inst { color: #666; font-style: italic; font-size: 0.82rem; }
 .italic-item { font-style: italic; color: #555; }
 
-/* Custom Check Circle Icons for Submission Guidelines */
 .check-list {
 list-style: none;
 }
@@ -354,7 +361,6 @@ padding: 15px 12px;
 .portal-label { font-size: 0.95rem; }
 .portal-link { color: var(--orange-dark); text-decoration: underline; font-weight: bold; font-size: 0.95rem; }
 
-/* Award Box Elements */
 .award-icon { color: var(--orange-accent); margin-right: 6px; }
 .price-val { text-align: right; font-size: 1.2rem; font-weight: 800; color: var(--orange-dark); }
 
